@@ -1,5 +1,3 @@
-I don't know why these don't work!!!!
-
 ## Overview
 To set up the signature, we first need to make sure links to Facebook, LinkedIn, and Skype are mentioned on your profile as well as a link to your picture, so that they go onto your signature. Then we need to add the signature to your signature settings. You will also add your profile picture to your Salesforce profile now.
 
