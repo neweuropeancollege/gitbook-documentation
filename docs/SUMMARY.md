@@ -4,8 +4,9 @@
 
 ## Sales and Recruiting
 
-* Getting start please work
+* [Getting start please work](sales-and-recruiting/getting-start-please-work.md)
 
 ## Initial Setup
-* [Set Up Your Signature](sales-and-recruiting/initial-setup/set-up-your-signature.md)
-* [Allow an Admin to Login as You](sales-and-recruiting/initial-setup/allow-an-admin-login-as-you.md)
+
+* [Set Up Your Signature](initial-setup/set-up-your-signature.md)
+* [Allow an Admin to Login as You](initial-setup/allow-an-admin-to-login-as-you.md)
