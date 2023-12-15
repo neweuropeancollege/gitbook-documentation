@@ -4,4 +4,4 @@
 
 ## Sales and Recruiting
 
-* [Introduction](sales-and-recruiting/intro-to-sales-and-recruiting.md)
+* [Introduction](sales-and-recruiting/intro.md)
