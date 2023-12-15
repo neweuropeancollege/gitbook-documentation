@@ -1,6 +1,7 @@
 ## Overview
-When encountering issues that require administrative intervention, it's often necessary to grant your Salesforce administrator access to your account. This allows them to troubleshoot and resolve issues directly. Below are the steps to grant this access:
+When encountering issues that require administrative intervention, it's often necessary to grant your Salesforce administrator access to your account. This allows them to troubleshoot and resolve issues directly.
 
+## Steps to Grant Access
 1. **Locate Your Profile Picture**: 
    - Click on your profile picture located at the top right corner of the Salesforce interface. This is usually your personal avatar or a default icon if you haven't set up a personal image.
 
