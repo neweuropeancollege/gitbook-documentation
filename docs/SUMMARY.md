@@ -1,9 +1,5 @@
-# Table of contents
+# Sales and Recruiting
 
-* [Page](README.md)
-
-## Sales and Recruiting
-
-### Initial Setup and Administration
+## Initial Setup
 * [Set Up Your Signature](sales-and-recruiting/initial-setup/set-up-your-signature.md)
 * [Allow an Admin to Login as You](sales-and-recruiting/initial-setup/allow-an-admin-login-as-you.md)
