@@ -4,7 +4,7 @@
 
 ## Sales and Recruiting
 
-* Getting start me
+* Getting start please work
 
 ## Initial Setup
 * [Set Up Your Signature](sales-and-recruiting/initial-setup/set-up-your-signature.md)
