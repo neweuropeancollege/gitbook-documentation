@@ -1,7 +1,4 @@
-# Table of contents
-* [Initial page](README.md)
-
-## Sales and Recruiting
+# Sales and Recruiting
 * [Welcome](sales-and-recruiting/welcome.md)
 
 ### Initial Setup
