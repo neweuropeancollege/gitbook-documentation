@@ -1,6 +1,10 @@
-Don't SAY README
+# Table of contents
 
-# Sales and Recruiting
+* [Initial page](README.md)
+
+## Sales and Recruiting
+
+* Getting start me
 
 ## Initial Setup
 * [Set Up Your Signature](sales-and-recruiting/initial-setup/set-up-your-signature.md)
