@@ -18,7 +18,7 @@ To set up the signature, we first need to make sure links to Facebook, LinkedIn,
 
 Once that's done
 
-1. click on your picture on the top right again.
+1. Click on your picture on the top right again.
 2. Click Settings
 3. Click My Email Settings (under Email)
 4. Copy the following text into the email signature box
