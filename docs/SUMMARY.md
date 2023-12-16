@@ -4,8 +4,8 @@
 
 ## Initial Setup
 
-* [Set Up Your Signature](setup/set-up-your-signature.md)
-* [Allow an Admin to Login as You](setup/allow-an-admin-to-login-as-you.md)
+* [Set Up Your Signature](initial-setup/set-up-your-signature.md)
+* [Allow an Admin to Login as You](initial-setup/allow-an-admin-to-login-as-you.md)
 
 ## Daily Use
 
