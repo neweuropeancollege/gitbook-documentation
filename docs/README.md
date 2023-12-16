@@ -1,7 +1,7 @@
 # Table of Contents
 ***
 
-## Setupss
+## Setup
 
 ### [🔒 Your Salesforce Account](sales-and-recruiting/setup/your-salesforce-account/README.md)
   * [Set Up Your Signature](sales-and-recruiting/setup/your-salesforce-account/set-up-your-signature.md)
