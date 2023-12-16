@@ -4,9 +4,9 @@
 
 ***
 
-## setup
+## Setup
 
-* [Your Salesforce Account](README.md)
+* [Your Salesforce Account](setup/your-salesforce-account/README.md)
   * [Allow an Admin to Login as You](setup/your-salesforce-account/allow-an-admin-to-login-as-you.md)
   * [Set Up Your Signature](setup/your-salesforce-account/set-up-your-signature.md)
 
@@ -15,7 +15,7 @@
 * [☁ Learn Salesforce](daily-operations/learn-salesforce/README.md)
   * [List Views and Bulk Editing](daily-operations/learn-salesforce/list-views-and-bulk-editing.md)
   * [Navigating and Understanding Salesforce](daily-operations/learn-salesforce/navigating-and-understanding-salesforce.md)
-* [💻Using Salesforce at NEC](daily-operations/using-salesforce-at-nec/README.md)
+* [💻 Using Salesforce at NEC](daily-operations/using-salesforce-at-nec/README.md)
   * [💼 General Workflow](daily-operations/using-salesforce-at-nec/general-workflow/README.md)
     * [How to Add Feedback Provided by WUAS](daily-operations/using-salesforce-at-nec/general-workflow/adding-feedback-from-wuas.md)
     * [How to Audit and the Audit Process](daily-operations/using-salesforce-at-nec/general-workflow/how-to-audit-and-the-audit-process.md)
