@@ -1,0 +1,1 @@
+# 🔗 Understanding the Integration Between Mailchimp and Salesforce
