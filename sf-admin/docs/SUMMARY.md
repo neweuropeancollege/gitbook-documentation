@@ -18,14 +18,15 @@
 
 * [🧬 The Data Model](data-model/README.md)
   * Academic Programs
-  - [How to Create and Manage Programs](data-model/how-to-create-and-manage-programs.md)
-  - [How to Create New Academic Program Accounts](data-model/How-to-Create-New-Academic-Program-Accounts.md)
-  - [How to Create New Specializations](data-model/How-to-Create-New-Specializations.md)
+    - [How to Create and Manage Programs](data-model/how-to-create-and-manage-programs.md)
+    - [How to Create New Academic Program Accounts](data-model/How-to-Create-New-Academic-Program-Accounts.md)
+    - [How to Create New Specializations](data-model/How-to-Create-New-Specializations.md)
 
   * Academic Terms
-  - [How to Create New Terms](data-model/How-to-Create-New-Terms.md)
+    - [How to Create New Terms](data-model/How-to-Create-New-Terms.md)
 
 ## Miscellaneous
+* [🧩 Miscellaneous](misc/README.md)
   - [Bulk Updating Record Ownerships](misc/Bulk-Updating-Record-Ownerships.md)
   - [Gravity Forms Integration and Debugging Steps](misc/data-model/Gravity-Forms-Integration-and-Debugging-Steps.md)
   - [Connection with Facebook](misc/Connection-with-Facebook.md)
