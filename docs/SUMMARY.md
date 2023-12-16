@@ -1,4 +1,4 @@
-* [Welcome](welcome.md)
+* [Table of Contents](table-of-contents.md)
 
 ## Initial Setup
 <!-- ### Your Salesforce Account -->
