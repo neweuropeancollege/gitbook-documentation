@@ -4,9 +4,9 @@
 
 ***
 
-## Setup
+## Setups
 
-* [🔒 Your Salesforce Account](setup/your-salesforce-account/README.md)
+* [🔒 Your Salesforce Accounts](setup/your-salesforce-account/README.md)
   * [Set Up Your Signature](setup/your-salesforce-account/set-up-your-signature.md)
   * [Allow an Admin to Login as You](setup/your-salesforce-account/allow-an-admin-to-login-as-you.md)
 
