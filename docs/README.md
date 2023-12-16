@@ -1,31 +1,32 @@
 # Table of Contents
-
 ***
 
-## Initial Setup
+## Setup
 
-### Your Salesforce Account
+* [🔒 Your Salesforce Account](setup/your-salesforce-account/README.md)
+  * [Set Up Your Signature](setup/your-salesforce-account/set-up-your-signature.md)
+  * [Allow an Admin to Login as You](setup/your-salesforce-account/allow-an-admin-to-login-as-you.md)
 
-* [Set Up Your Signature](broken-reference)
-* [Allow an Admin to Login as You](broken-reference)
+## Daily Operations
 
-***
-
-## Daily Use
-
-### Learn Salesforce
-
-* [Navigating and Understanding Salesforce](sales-and-recruiting/daily-use/learn-salesforce/navigating-and-understanding-salesforce.md)
-* How to Create a List View and Bulk Edit Any Kind of Record
-
-### Using Salesforce at NEC
-
-* [General Workflow](sales-and-recruiting/daily-use/using-salesforce-at-nec/general-workflow/README.md)
-
-* [Using the Add Feedback Feature to Record WUAS Feedback](sales-and-recruiting/daily-use/using-salesforce-at-nec/using-the-add-feedback-feature-to-record-wuas-feedback.md)
-
-**Student Recruitment**
-
-* Progressing Applicants through the Student Application Sales Process
+* [☁ Learn Salesforce](sales-and-recruiting/learn-salesforce/README.md)
+  * [Navigating & Understanding Salesforce](sales-and-recruiting/learn-salesforce/navigating-and-understanding-salesforce.md)
+  * [List Views & Bulk Editing](sales-and-recruiting/learn-salesforce/list-views-and-bulk-editing.md)
+* [💻 Using Salesforce at NEC](sales-and-recruiting/using-salesforce-at-nec/README.md)
+  * [💼 General Workflow](sales-and-recruiting/using-salesforce-at-nec/general-workflow/README.md)
+    * [How to Audit & the Audit Process](sales-and-recruiting/using-salesforce-at-nec/general-workflow/how-to-audit-and-the-audit-process.md)
+    * [The Requirements System](sales-and-recruiting/using-salesforce-at-nec/general-workflow/the-requirements-system.md)
+    * [Logging a Live Interaction](sales-and-recruiting/using-salesforce-at-nec/general-workflow/logging-a-live-interaction.md)
+    * [Importance of Email Address Records](sales-and-recruiting/using-salesforce-at-nec/general-workflow/importance-of-email-address-records.md)
+  * [🎓 Student Recruitment](sales-and-recruiting/using-salesforce-at-nec/student-recruitment/README.md)
+    * [Application Process](sales-and-recruiting/using-salesforce-at-nec/student-recruitment/application-process.md)
+    * [Adding Feedback from WUAS](sales-and-recruiting/using-salesforce-at-nec/general-workflow/adding-feedback-from-wuas.md)
+  * [🤝 Partner Recruitment](sales-and-recruiting/using-salesforce-at-nec/partner-recruitment/README.md)
+    * [Partner Recruitment Process](sales-and-recruiting/using-salesforce-at-nec/partner-recruitment/partner-recruitment-process.md)
+  * [🤔 Problem Solving](sales-and-recruiting/using-salesforce-at-nec/problem-solving/README.md)
+    * [How to Rectify an Incorrect Audit](sales-and-recruiting/using-salesforce-at-nec/problem-solving/how-to-rectify-an-incorrect-audit.md)
+    * [Importing Missing Emails from Outlook to Salesforce](sales-and-recruiting/using-salesforce-at-nec/problem-solving/importing-missing-emails-from-outlook-to-salesforce.md)
+    * [Resolving Missing Emails and Tasks on Opportunities Activity Timeline](sales-and-recruiting/using-salesforce-at-nec/problem-solving/resolving-missing-emails-and-tasks-on-opportunities-activity-timeline.md)
+    * [Resolving Emails Sent On Mailchimp Not Appearing on Salesforce](sales-and-recruiting/using-salesforce-at-nec/problem-solving/resolving-emails-sent-on-mailchimp-not-appearing-on-salesforce.md)
 
 ***
