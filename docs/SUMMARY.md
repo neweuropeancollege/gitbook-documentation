@@ -6,9 +6,9 @@
 
 ## Setup
 
-* [🔒 Your Salesforce Account](setup/your-salesforce-account/README.md)
-  * [Set Up Your Signature](setup/your-salesforce-account/set-up-your-signature.md)
-  * [Allow an Admin to Login as You](setup/your-salesforce-account/allow-an-admin-to-login-as-you.md)
+* [🔒 Your Salesforce Account](sales-and-recruiting/setup/your-salesforce-account/README.md)
+  * [Set Up Your Signature](sales-and-recruiting/setup/your-salesforce-account/set-up-your-signature.md)
+  * [Allow an Admin to Login as You](sales-and-recruiting/setup/your-salesforce-account/allow-an-admin-to-login-as-you.md)
 
 ## Daily Operations
 
