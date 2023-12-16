@@ -7,6 +7,8 @@
 * [Set Up Your Signature](broken-reference)
 * [Allow an Admin to Login as You](broken-reference)
 
+***
+
 ## Daily Use
 
 ### Learn Salesforce
