@@ -1,20 +1,20 @@
 # Table of Contents
 
-### Initial Setup
+## Initial Setup
 
-#### Your Salesforce Account
+### Your Salesforce Account
 
 * [Set Up Your Signature](broken-reference)
 * [Allow an Admin to Login as You](broken-reference)
 
-### Daily Use
+## Daily Use
 
-#### Learn Salesforce
+### Learn Salesforce
 
 * [Navigating and Understanding Salesforce](sales-and-recruiting/daily-use/learn-salesforce/navigating-and-understanding-salesforce.md)
 * How to Create a List View and Bulk Edit Any Kind of Record
 
-#### Using Salesforce at NEC
+### Using Salesforce at NEC
 
 **General Workflow**
 
