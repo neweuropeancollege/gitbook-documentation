@@ -1,4 +1,6 @@
-# Introduction
+# Navigating and Understanding Salesforce
+
+## Overview
 
 To understand Salesforce and how it is used, we will use the analogy of Excel files in a computer, since we are all familiar with that.
 

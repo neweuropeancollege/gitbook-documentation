@@ -20,7 +20,7 @@
 
 ### Using Salesforce at NEC
 
-_General Workflow_
+* [General Workflow](sales-and-recruiting/daily-use/using-salesforce-at-nec/general-workflow/README.md)
 
 * [Using the Add Feedback Feature to Record WUAS Feedback](sales-and-recruiting/daily-use/using-salesforce-at-nec/using-the-add-feedback-feature-to-record-wuas-feedback.md)
 

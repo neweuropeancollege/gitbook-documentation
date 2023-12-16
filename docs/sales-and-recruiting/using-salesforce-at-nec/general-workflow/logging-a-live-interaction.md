@@ -1,3 +1,5 @@
+# Logging a Live Interaction (Phone Call or Campus Visit)
+
 ## Introduction
 
 If you receive a call or a campus visit (or have any other interaction with a student in a non-digital environment), it needs to be logged.

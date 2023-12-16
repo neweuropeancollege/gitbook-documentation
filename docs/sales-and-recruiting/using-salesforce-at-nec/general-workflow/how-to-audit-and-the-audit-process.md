@@ -1,3 +1,5 @@
+# How to Audit and the Audit Process
+
 ## Overview
 Prospective students interact with NEC, either through an email to any of our admission consultants, a form submission through any of our forms, a telephone call to our number, a visit to our campus, etc...
 

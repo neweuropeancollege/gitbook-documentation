@@ -1,3 +1,5 @@
+# Email Address Records and Why They Are So Important
+
 ## Overview
 
 This article provides a detailed explanation of the significance of email records in Salesforce, particularly their relationship with contacts, and the implications of incorrect interaction auditing.
