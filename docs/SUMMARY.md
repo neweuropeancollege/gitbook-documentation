@@ -9,8 +9,6 @@
 
 ## 💻 Daily Use
 
-***
-
 * [☁ Learn Salesforce](learn-salesforce/README.md)
   * [Navigating and Understanding Salesforce](learn-salesforce/navigating-and-understanding-salesforce.md)
   * [How to Create a List View and Bulk Edit Any Kind of Record](learn-salesforce/how-to-create-a-list-view-and-bulk-edit-any-kind-of-record.md)
