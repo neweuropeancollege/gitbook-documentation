@@ -1,3 +1,5 @@
+# Allow an Admin to Login as You
+
 ## Overview
 When encountering issues that require administrative intervention, it's often necessary to grant your Salesforce administrator access to your account. This allows them to troubleshoot and resolve issues directly.
 
