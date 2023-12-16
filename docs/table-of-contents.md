@@ -1,5 +1,3 @@
-* [Welcome](welcome.md)
-
 ## Initial Setup
 ### Your Salesforce Account
 * [Set Up Your Signature](sales-and-recruiting/initial-setup/set-up-your-signature.md)
