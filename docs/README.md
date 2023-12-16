@@ -7,7 +7,7 @@
   * [Set Up Your Signature](setup/your-salesforce-account/set-up-your-signature.md)
   * [Allow an Admin to Login as You](setup/your-salesforce-account/allow-an-admin-to-login-as-you.md)
 
-## Daily Operationss
+## Daily Operations
 
 ### [☁ Learn Salesforce](sales-and-recruiting/learn-salesforce/README.md)
   * [Navigating & Understanding Salesforce](sales-and-recruiting/learn-salesforce/navigating-and-understanding-salesforce.md)
