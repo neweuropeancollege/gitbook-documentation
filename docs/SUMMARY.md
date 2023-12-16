@@ -2,18 +2,18 @@
 
 * [Table of Contents](README.md)
 
-## 🔧 Setup
+## Setup
 
 * [Set Up Your Signature](setup/set-up-your-signature.md)
 * [Allow an Admin to Login as You](setup/allow-an-admin-to-login-as-you.md)
 
-## 💼 Daily Operations
+## Daily Operations
 
 * [☁ Learn Salesforce](sales-and-recruiting/learn-salesforce/README.md)
   * [Navigating & Understanding Salesforce](sales-and-recruiting/learn-salesforce/navigating-and-understanding-salesforce.md)
   * [List Views & Bulk Editing](sales-and-recruiting/learn-salesforce/list-views-and-bulk-editing.md)
 * [💻 Using Salesforce at NEC](sales-and-recruiting/using-salesforce-at-nec/README.md)
-  * [✅ General Workflow](sales-and-recruiting/using-salesforce-at-nec/general-workflow/README.md)
+  * [💼 General Workflow](sales-and-recruiting/using-salesforce-at-nec/general-workflow/README.md)
     * [How to Audit & the Audit Process](sales-and-recruiting/using-salesforce-at-nec/general-workflow/how-to-audit-and-the-audit-process.md)
     * [The Requirements System](sales-and-recruiting/using-salesforce-at-nec/general-workflow/the-requirements-system.md)
     * [Logging a Live Interaction](sales-and-recruiting/using-salesforce-at-nec/general-workflow/logging-a-live-interaction.md)
