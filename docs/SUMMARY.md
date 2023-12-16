@@ -2,6 +2,8 @@
 
 * [Table of Contents](README.md)
 
+***
+
 ## Setup
 
 * [Set Up Your Signature](setup/set-up-your-signature.md)
