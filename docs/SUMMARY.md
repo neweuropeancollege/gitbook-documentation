@@ -5,7 +5,8 @@
 * [Set Up Your Signature](initial-setup/set-up-your-signature.md)
 * [Allow an Admin to Login as You](initial-setup/allow-an-admin-to-login-as-you.md)
 
-# Daily Use
+## Daily Use
+### Daily Use
 ## Navigation and Features
 * Navigating and Understanding Salesforce
 * How to Create a List View and Bulk Edit Any Kind of Record
