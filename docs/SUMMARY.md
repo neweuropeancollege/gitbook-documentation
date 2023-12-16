@@ -10,8 +10,11 @@
 ## 💻 Daily Use
 
 * [☁ Learn Salesforce](sales-and-recruiting/learn-salesforce/README.md)
-  * [Navigating and Understanding Salesforce](sales-and-recruiting/learn-salesforce/navigating-and-understanding-salesforce.md)
-  * [How to Create a List View and Bulk Edit Any Kind of Record](sales-and-recruiting/learn-salesforce/how-to-create-a-list-view-and-bulk-edit-any-kind-of-record.md)
+  * [Navigating & Understanding Salesforce](sales-and-recruiting/learn-salesforce/navigating-and-understanding-salesforce.md)
+  * [List Views & Bulk Editing](sales-and-recruiting/learn-salesforce/list-views-and-bulk-editing.md)
 * [🤝 Using Salesforce at NEC](sales-and-recruiting/using-salesforce-at-nec/README.md)
   * [General Workflow](sales-and-recruiting/using-salesforce-at-nec/general-workflow/README.md)
-    * [Using the Add Feedback Feature to Record WUAS Feedback](sales-and-recruiting/using-salesforce-at-nec/general-workflow/using-the-add-feedback-feature-to-record-wuas-feedback.md)
+    * [How to Audit & the Audit Process](sales-and-recruiting/using-salesforce-at-nec/general-workflow/how-to-audit-and-the-audit-process.md)
+    * [Logging a Live Interaction](sales-and-recruiting/using-salesforce-at-nec/general-workflow/logging-a-live-interaction.md)
+    * [Importance of Email Address Records](sales-and-recruiting/using-salesforce-at-nec/general-workflow/importance-of-email-address-records.md)
+    * [Adding Feedback from WUAS](sales-and-recruiting/using-salesforce-at-nec/general-workflow/adding-feedback-from-wuas.md)
