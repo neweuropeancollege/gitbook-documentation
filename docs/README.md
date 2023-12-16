@@ -1,5 +1,7 @@
 # Table of Contents
 
+***
+
 ## Initial Setup
 
 ### Your Salesforce Account
@@ -25,3 +27,5 @@
 **Student Recruitment**
 
 * Progressing Applicants through the Student Application Sales Process
+
+***
