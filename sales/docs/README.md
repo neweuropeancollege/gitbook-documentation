@@ -27,5 +27,6 @@
     * [Importing Missing Emails from Outlook to Salesforce](daily-operations/using-salesforce-at-nec/problem-solving/importing-missing-emails-from-outlook-to-salesforce.md)
     * [Resolving Missing Emails and Tasks on Opportunities Activity Timeline](daily-operations/using-salesforce-at-nec/problem-solving/resolving-missing-emails-and-tasks-on-opportunities-activity-timeline.md)
     * [Resolving Emails Sent On Mailchimp Not Appearing on Salesforce](daily-operations/using-salesforce-at-nec/problem-solving/resolving-emails-sent-on-mailchimp-not-appearing-on-salesforce.md)
+    * [An Email Can't Be Sent Due to an Error](daily-operations/using-salesforce-at-nec/problem-solving/cannot-send-an-email.md)
 
 ***
