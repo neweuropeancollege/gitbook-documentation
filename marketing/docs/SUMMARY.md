@@ -2,8 +2,6 @@
 
 * [Table of Contents](README.md)
 
-***
-
 ## Mailchimp Use
 
 * [🔗 Salesforce Integration](mailchimp-use/salesforce-integration/README.md)
