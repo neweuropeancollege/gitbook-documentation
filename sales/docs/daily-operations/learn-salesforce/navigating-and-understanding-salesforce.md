@@ -32,7 +32,7 @@ But how can you find which records to edit and save? That's what you will see be
 Salesforce is accessed through apps contained within it. As a recruiter at NEC, your primary app to use is the Back Office app. That's because we (the recruiters) are at the back office of the NEC campus 😊
 In order to use Salesforce as a recruiter, make sure you're on the Back Office app. You can see which app you're on by looking at what is written at the top left of your screen. See the underlined red below:
 
-![image](https://github.com/parsam97/nec-salesforce/assets/32430185/304be345-6114-4024-9b88-cc353547709c)
+![Console Navigation](../../../.gitbook/assets/console-navigation.png)
 
 Clicking on the 9 dots to the very left opens the App Launcher. Through the App Launcher, you can navigate to the Back Office app, if you're not on it already.
 
