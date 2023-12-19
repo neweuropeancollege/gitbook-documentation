@@ -21,7 +21,7 @@
   * Academic Terms
   - [How to Create New Terms](data-model/How-to-Create-New-Terms.md)
 
-## Miscellaneous
+## [Miscellaneous](misc/README.md)
   - [Bulk Updating Record Ownerships](misc/Bulk-Updating-Record-Ownerships.md)
   - [Gravity Forms Integration and Debugging Steps](misc/data-model/Gravity-Forms-Integration-and-Debugging-Steps.md)
   - [Connection with Facebook](misc/Connection-with-Facebook.md)
