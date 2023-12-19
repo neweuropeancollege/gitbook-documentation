@@ -54,7 +54,7 @@ The list view (currently Recently Viewed in the screenshot below) is your primar
 
 Once you're on the object's page, make sure to adjust the list view by clicking on the dropdown circled red below and selecting another list view ("All")
 
-![image](https://github.com/parsam97/nec-salesforce/assets/32430185/7c88d116-49e5-47f0-b305-ad4d3961772b)
+![Selecting a List View](../../../.gitbook/assets/list-view-selection.png)
 
 Now that you see some records, you can start to see how the user interface (UI) slightly resembles an Excel file's UI.
 
@@ -62,7 +62,7 @@ Now that you see some records, you can start to see how the user interface (UI) 
 
 To open any record in Salesforce, you should first navigate to its object page. In the example, we have navigated to the Interactions object page. To open any interaction record, click on its Name (underlined red below). In the example below, it is called Interaction Name on the column. Clicking on that link would take you to the record itself.
 
-![listview](https://github.com/parsam97/nec-salesforce/assets/32430185/9e4debdb-dd90-46c1-90b9-a13bf43acbb0)
+![Opening a Record from the Results Shown in a List View](../../../.gitbook/assets/list-view-record-selection.png)
 
 _Please note: clicking on the Contact link (underlined light purple) would take you to the Contact record related to this interaction record. The same is true for the Opportunity link (underlined yellow)._
 
