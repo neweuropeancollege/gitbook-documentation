@@ -42,9 +42,7 @@ Clicking on the dropdown circled red above ⬆️ shows you a list of items.
 - Some are lightning pages e.g. Home, Applicant Dashboards, Tasks and Follow-ups Dashboards
 - and some are object pages e.g. Interactions, Opportunities, Tasks.
 
-❗️ Note ❗️ The Learning Salesforce item is a link which will refresh the page. If you are in the middle of drafting an email, a page refresh will discard your draft/work, which nobody likes. Please pay attention to that so you don't lose your work.
-
-To go to a particular object's page, just click on the dropdown circled red above ⬆️ and click on the object you want in the list. If you can't find the object there, click on the App Launcher and search for it.
+To go to a particular object's page, just click on the dropdown circled red above and click on the object you want in the list. If you can't find the object there, click on the App Launcher and search for it.
 
 ### Follow along
 
