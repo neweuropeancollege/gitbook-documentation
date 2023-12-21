@@ -51,7 +51,7 @@ We are currently able to segment based on the following opportunity data:
     * Stage Name
     * Term Name
     * Term Start Date
-    ... and all contact and account (business, institiution, etc.) data.
+    * ... and all contact and account (business, institiution, etc.) data.
 
 For step-by-step instructions on setting up and running an automation on Mailchimp, see [[the guide|Mailchimp-Step-by-Step-Guide-Creating-and-Running-a-Classic-Automation]].
 
