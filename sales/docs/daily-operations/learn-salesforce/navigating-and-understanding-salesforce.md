@@ -32,7 +32,7 @@ But how can you find which records to edit and save? That's what you will see be
 Salesforce is accessed through apps contained within it. As a recruiter at NEC, your primary app to use is the Back Office app. That's because we (the recruiters) are at the back office of the NEC campus 😊
 In order to use Salesforce as a recruiter, make sure you're on the Back Office app. You can see which app you're on by looking at what is written at the top left of your screen. See the underlined red below:
 
-![image](https://github.com/parsam97/nec-salesforce/assets/32430185/304be345-6114-4024-9b88-cc353547709c)
+![Console Navigation](../../../.gitbook/assets/console-navigation.png)
 
 Clicking on the 9 dots to the very left opens the App Launcher. Through the App Launcher, you can navigate to the Back Office app, if you're not on it already.
 
@@ -42,9 +42,7 @@ Clicking on the dropdown circled red above ⬆️ shows you a list of items.
 - Some are lightning pages e.g. Home, Applicant Dashboards, Tasks and Follow-ups Dashboards
 - and some are object pages e.g. Interactions, Opportunities, Tasks.
 
-❗️ Note ❗️ The Learning Salesforce item is a link which will refresh the page. If you are in the middle of drafting an email, a page refresh will discard your draft/work, which nobody likes. Please pay attention to that so you don't lose your work.
-
-To go to a particular object's page, just click on the dropdown circled red above ⬆️ and click on the object you want in the list. If you can't find the object there, click on the App Launcher and search for it.
+To go to a particular object's page, just click on the dropdown circled red above and click on the object you want in the list. If you can't find the object there, click on the App Launcher and search for it.
 
 ### Follow along
 
@@ -56,7 +54,7 @@ The list view (currently Recently Viewed in the screenshot below) is your primar
 
 Once you're on the object's page, make sure to adjust the list view by clicking on the dropdown circled red below and selecting another list view ("All")
 
-![image](https://github.com/parsam97/nec-salesforce/assets/32430185/7c88d116-49e5-47f0-b305-ad4d3961772b)
+![Selecting a List View](../../../.gitbook/assets/list-view-selection.png)
 
 Now that you see some records, you can start to see how the user interface (UI) slightly resembles an Excel file's UI.
 
@@ -64,7 +62,7 @@ Now that you see some records, you can start to see how the user interface (UI) 
 
 To open any record in Salesforce, you should first navigate to its object page. In the example, we have navigated to the Interactions object page. To open any interaction record, click on its Name (underlined red below). In the example below, it is called Interaction Name on the column. Clicking on that link would take you to the record itself.
 
-![listview](https://github.com/parsam97/nec-salesforce/assets/32430185/9e4debdb-dd90-46c1-90b9-a13bf43acbb0)
+![Opening a Record from the Results Shown in a List View](../../../.gitbook/assets/list-view-record-selection.png)
 
 _Please note: clicking on the Contact link (underlined light purple) would take you to the Contact record related to this interaction record. The same is true for the Opportunity link (underlined yellow)._
 
