@@ -13,3 +13,5 @@
 ### [🤖 Automation Management](mailchimp-use/automation-management/README.md)
   * [Triggering Automations](mailchimp-use/automation-management/triggering-automations.md)
   * [Mailchimp Step-by-Step Guide: Creating and Running a Classic Automation](mailchimp-use/automation-management/mailchimp-step-by-step-guide-creating-and-running-a-classic-automation.md)
+### [🚧 Maintenance Work](mailchimp-use/maintenance-work/README.md)
+  * [Maintaining Synced Lists](mailchimp-use/maintenance-work/maintaining-synced-lists.md)
