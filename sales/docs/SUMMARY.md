@@ -22,6 +22,7 @@
     * [Email Address Records and Why They Are So Important](daily-operations/using-salesforce-at-nec/general-workflow/importance-of-email-address-records.md)
     * [Logging a Live Interaction (Phone Call or Campus Visit)](daily-operations/using-salesforce-at-nec/general-workflow/logging-a-live-interaction.md)
     * [The Requirements System](daily-operations/using-salesforce-at-nec/general-workflow/the-requirements-system.md)
+    * [Sending Bulk Emails](daily-operations/using-salesforce-at-nec/general-workflow/sending-bulk-emails.md)
   * [🎓 Student Recruitment](daily-operations/using-salesforce-at-nec/student-recruitment/README.md)
     * [Application Process](daily-operations/using-salesforce-at-nec/student-recruitment/application-process.md)
   * [🤝 Partner Recruitment](daily-operations/using-salesforce-at-nec/partner-recruitment/README.md)
