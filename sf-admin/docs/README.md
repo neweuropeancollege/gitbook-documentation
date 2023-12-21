@@ -21,6 +21,9 @@
   * Academic Terms
     - [How to Create New Terms](programs-and-terms/How-to-Create-New-Terms.md)
 
+### [OneDrive](onedrive/README.md)
+  * [How to Find Files of Contacts](onedrive/how-to-find-files-of-contacts.md)
+
 ## Data Model
 
 ### [📊 Gravity Forms](/gravity-forms/README.md)
