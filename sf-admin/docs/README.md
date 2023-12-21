@@ -14,15 +14,17 @@
 
 ### [🧬 The Data Model](data-model/README.md)
   * Academic Programs
-  * [How to Create and Manage Programs](data-model/how-to-create-and-manage-programs.md)
-  * [How to Create New Academic Program Accounts](data-model/How-to-Create-New-Academic-Program-Accounts.md)
-  * [How to Create New Specializations](data-model/How-to-Create-New-Specializations.md)
+    * [How to Create and Manage Programs](data-model/how-to-create-and-manage-programs.md)
+    * [How to Create New Academic Program Accounts](data-model/How-to-Create-New-Academic-Program-Accounts.md)
+    * [How to Create New Specializations](data-model/How-to-Create-New-Specializations.md)
 
   * Academic Terms
-  * [How to Create New Terms](data-model/How-to-Create-New-Terms.md)
+    * [How to Create New Terms](data-model/How-to-Create-New-Terms.md)
 
 ## [🐒 Mailchimp Administration](/mailchimp-admin/README.md)
-  * [Maintaining Synced Lists](mailchimp-admin/maintenance-work/maintaining-synced-lists.md)
+  * [About the Integration](mailchimp-use/salesforce-integration/about-the-integration.md)
+  * [Maintenance Work](/mailchimp-use/maintenance-work/README.md)
+    * [Maintaining Synced Lists](mailchimp-admin/maintenance-work/maintaining-synced-lists.md)
 
 ## [Miscellaneous](misc/README.md)
   * [Bulk Updating Record Ownerships](misc/Bulk-Updating-Record-Ownerships.md)
