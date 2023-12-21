@@ -1,6 +1,9 @@
 # Table of Contents
 ***
 
+## General
+* [Adding New Contacts](adding-new-contacts.md)
+
 ## Mailchimp Use
 
 ### [🔗 Salesforce Integration](mailchimp-use/salesforce-integration/README.md)
