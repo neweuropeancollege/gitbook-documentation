@@ -16,19 +16,29 @@
     - [How to Set Up and Work with Permissions and Permission Sets](users/How-to-Set-Up-and-Work-with-Permissions-and-Permission-Sets.md)
     - [What the Manager Permission Set Does](users/What-the-Manager-Permission-Set-Does.md)
 
-* [🧬 The Data Model](data-model/README.md)
+* [🧬 Programs and Terms](programs-and-terms/README.md)
   * Academic Programs
-    - [How to Create and Manage Programs](data-model/how-to-create-and-manage-programs.md)
-    - [How to Create New Academic Program Accounts](data-model/How-to-Create-New-Academic-Program-Accounts.md)
-    - [How to Create New Specializations](data-model/How-to-Create-New-Specializations.md)
+    - [How to Create and Manage Programs](programs-and-terms/how-to-create-and-manage-programs.md)
+    - [How to Create New Academic Program Accounts](programs-and-terms/How-to-Create-New-Academic-Program-Accounts.md)
+    - [How to Create New Specializations](programs-and-terms/How-to-Create-New-Specializations.md)
 
   * Academic Terms
-    - [How to Create New Terms](data-model/How-to-Create-New-Terms.md)
+    - [How to Create New Terms](programs-and-terms/How-to-Create-New-Terms.md)
+
+## Data Model
+
+* [📊 Gravity Forms](/gravity-forms/README.md)
+  - [About the Integration](gravity-forms/about-the-integration.md)
+  - [Debugging Steps](gravity-forms/debugging-steps.md)
+
+* [🐒 Mailchimp](/mailchimp/README.md)
+  * [About the Integration](mailchimp-use/salesforce-integration/about-the-integration.md)
+  * [Maintenance Work](/mailchimp-use/maintenance-work/README.md)
+    * [Maintaining Synced Lists](mailchimp/maintenance-work/maintaining-synced-lists.md)
 
 ## Miscellaneous
 * [🧩 Miscellaneous](misc/README.md)
   - [Bulk Updating Record Ownerships](misc/Bulk-Updating-Record-Ownerships.md)
-  - [Gravity Forms Integration and Debugging Steps](misc/data-model/Gravity-Forms-Integration-and-Debugging-Steps.md)
   - [Connection with Facebook](misc/Connection-with-Facebook.md)
-  - [Map of Opportunity Stage to Index](misc/data-model/Map-of-Opportunity-Stage-to-Index.md)
-  - [Things You Can’t Do – Better Call Saulesforce](misc/data-model/Things-You-Can’t-Do-–-Better-Call-Saulesforce.md)
+  - [Map of Opportunity Stage to Index](misc/programs-and-terms/Map-of-Opportunity-Stage-to-Index.md)
+  - [Things You Can’t Do Without a Dev](misc/dev-only-things.md)

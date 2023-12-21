@@ -1,1 +1,0 @@
-# 🐒 Mailchimp Administration
