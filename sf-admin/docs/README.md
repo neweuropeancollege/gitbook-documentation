@@ -2,7 +2,7 @@
 
 ## How Tos
 
-* [👥 Users](users/README.md)
+### [👥 Users](users/README.md)
   * New Users
     - [Adding a New Recruiter to the Sales Team](users/adding-a-new-recruiter-to-the-sales-team.md)
 
@@ -12,7 +12,7 @@
     - [How to Set Up and Work with Permissions and Permission Sets](users/How-to-Set-Up-and-Work-with-Permissions-and-Permission-Sets.md)
     - [What the Manager Permission Set Does](users/What-the-Manager-Permission-Set-Does.md)
 
-* [🧬 Programs and Terms](programs-and-terms/README.md)
+### [🧬 Programs and Terms](programs-and-terms/README.md)
   * Academic Programs
     - [How to Create and Manage Programs](programs-and-terms/how-to-create-and-manage-programs.md)
     - [How to Create New Academic Program Accounts](programs-and-terms/How-to-Create-New-Academic-Program-Accounts.md)
@@ -23,18 +23,17 @@
 
 ## Data Model
 
-* [📊 Gravity Forms](/gravity-forms/README.md)
+### [📊 Gravity Forms](/gravity-forms/README.md)
   - [About the Integration](gravity-forms/about-the-integration.md)
   - [Debugging Steps](gravity-forms/debugging-steps.md)
 
-* [🐒 Mailchimp](/mailchimp/README.md)
+### [🐒 Mailchimp](/mailchimp/README.md)
   * [About the Integration](mailchimp-use/salesforce-integration/about-the-integration.md)
   * [Maintenance Work](/mailchimp-use/maintenance-work/README.md)
     * [Maintaining Synced Lists](mailchimp/maintenance-work/maintaining-synced-lists.md)
 
 ## Miscellaneous
-* [🧩 Miscellaneous](misc/README.md)
-  - [Bulk Updating Record Ownerships](misc/Bulk-Updating-Record-Ownerships.md)
-  - [Connection with Facebook](misc/Connection-with-Facebook.md)
-  - [Map of Opportunity Stage to Index](misc/programs-and-terms/Map-of-Opportunity-Stage-to-Index.md)
-  - [Things You Can’t Do Without a Dev](misc/dev-only-things.md)
+- [Bulk Updating Record Ownerships](misc/Bulk-Updating-Record-Ownerships.md)
+- [Connection with Facebook](misc/Connection-with-Facebook.md)
+- [Map of Opportunity Stage to Index](misc/programs-and-terms/Map-of-Opportunity-Stage-to-Index.md)
+- [Things You Can’t Do Without a Dev](misc/dev-only-things.md)

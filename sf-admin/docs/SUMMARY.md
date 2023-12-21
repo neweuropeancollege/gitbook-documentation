@@ -37,7 +37,6 @@
     * [Maintaining Synced Lists](mailchimp/maintenance-work/maintaining-synced-lists.md)
 
 ## Miscellaneous
-* [🧩 Miscellaneous](misc/README.md)
   - [Bulk Updating Record Ownerships](misc/Bulk-Updating-Record-Ownerships.md)
   - [Connection with Facebook](misc/Connection-with-Facebook.md)
   - [Map of Opportunity Stage to Index](misc/programs-and-terms/Map-of-Opportunity-Stage-to-Index.md)
