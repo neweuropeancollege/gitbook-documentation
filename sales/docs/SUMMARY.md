@@ -28,6 +28,7 @@
     * [Partner Recruitment Process](daily-operations/using-salesforce-at-nec/partner-recruitment/partner-recruitment-process.md)
   * [🤔 Problem Solving](daily-operations/using-salesforce-at-nec/problem-solving/README.md)
     * [How to Rectify an Incorrect Audit](daily-operations/using-salesforce-at-nec/problem-solving/how-to-rectify-an-incorrect-audit.md)
+    * [Opportunity Stuck on a Stage](daily-operations/using-salesforce-at-nec/problem-solving/opportunity-stuck-on-a-stage.md)
     * [Importing Missing Emails from Outlook to Salesforce](daily-operations/using-salesforce-at-nec/problem-solving/importing-missing-emails-from-outlook-to-salesforce.md)
     * [Resolving Emails Sent On Mailchimp Not Appearing on Salesforce](daily-operations/using-salesforce-at-nec/problem-solving/resolving-emails-sent-on-mailchimp-not-appearing-on-salesforce.md)
     * [Resolving Missing Emails and tasks on Opportunities Activity Timeline](daily-operations/using-salesforce-at-nec/problem-solving/resolving-missing-emails-and-tasks-on-opportunities-activity-timeline.md)
