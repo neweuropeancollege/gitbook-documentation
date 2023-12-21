@@ -1,4 +1,8 @@
 # Table of Contents
+***
+
+## General
+* [Adding New Contacts](adding-new-contacts.md)
 
 ## Mailchimp Use
 
@@ -7,4 +11,4 @@
   * [Automation Names, Segmentations, and Naming Structure](mailchimp-use/salesforce-integration/automation-names-segmentations-and-structure.md)
 ### [🤖 Automation Management](mailchimp-use/automation-management/README.md)
   * [Triggering Automations](mailchimp-use/automation-management/triggering-automations.md)
-  * [Create a Classic Automation](mailchimp-use/automation-management/create-a-classic-automation.md)
+  * [Mailchimp Step-by-Step Guide: Creating and Running a Classic Automation](mailchimp-use/automation-management/mailchimp-step-by-step-guide-creating-and-running-a-classic-automation.md)
