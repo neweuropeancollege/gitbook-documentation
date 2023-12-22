@@ -13,7 +13,7 @@
   * [List Views & Bulk Editing](daily-operations/learn-salesforce/list-views-and-bulk-editing.md)
 ### [💻 Using Salesforce at NEC](daily-operations/using-salesforce-at-nec/README.md)
   - [💼 **General Workflow**](daily-operations/using-salesforce-at-nec/general-workflow/README.md)
-    * [Student/Principal - How to Audit & the Audit Process](daily-operations/using-salesforce-at-nec/general-workflow/how-to-audit-and-the-audit-process.md)
+    * [Student/Prsincipal - How to Audit & the Audit Process](daily-operations/using-salesforce-at-nec/general-workflow/how-to-audit-and-the-audit-process.md)
     * [The Requirements System](daily-operations/using-salesforce-at-nec/general-workflow/the-requirements-system.md)
     * [Logging a Live Interaction](daily-operations/using-salesforce-at-nec/general-workflow/logging-a-live-interaction.md)
     * [Importance of Email Address Records](daily-operations/using-salesforce-at-nec/general-workflow/importance-of-email-address-records.md)
