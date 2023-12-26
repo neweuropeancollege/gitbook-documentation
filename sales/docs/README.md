@@ -17,6 +17,7 @@
     * [The Requirements System](daily-operations/using-salesforce-at-nec/general-workflow/the-requirements-system.md)
     * [Logging a Live Interaction](daily-operations/using-salesforce-at-nec/general-workflow/logging-a-live-interaction.md)
     * [Importance of Email Address Records](daily-operations/using-salesforce-at-nec/general-workflow/importance-of-email-address-records.md)
+    * [Sending Bulk Emails](daily-operations/using-salesforce-at-nec/general-workflow/sending-bulk-emails.md)
 ***
   - [🎓 **Student Recruitment**](daily-operations/using-salesforce-at-nec/student-recruitment/README.md)
     * [Application Process](daily-operations/using-salesforce-at-nec/student-recruitment/application-process.md)
