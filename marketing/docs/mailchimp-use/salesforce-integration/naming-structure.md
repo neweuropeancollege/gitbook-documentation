@@ -6,7 +6,23 @@ In using the Exclusive Campaign Tracker model, we must select and adhere to a st
 Keep in mind, altering the naming structure should be done with caution, as it may have unintended outcomes with existing campaign recipients that are already in queue.
 {% endhint %}
 
+The structure is constructed of the following elements
 
+* Marketing stage
+* Source
+* Sales stage
+* Descriptor
+* Institution destination
+
+... and formatted as so
+
+
+
+### Elements Descriptions
+
+#### Marketing stage
+
+<table><thead><tr><th width="135">Options</th><th>Significance</th></tr></thead><tbody><tr><td>Lead</td><td>a student inquirer that isn't a qualified applicant yet<br>a prospective partner that hasn't signed yet</td></tr><tr><td>Applicant</td><td>a student inquirer that has earned a qualified status</td></tr><tr><td>Partner</td><td>an educational agency that has signed a partnership contract with our organization</td></tr></tbody></table>
 
 Applied => Lead - Direct Applicant NEC
 
