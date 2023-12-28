@@ -36,7 +36,7 @@ There are three key fields in Salesforce related to this process:
 - The configurator has access to:
   - All Contact fields
   - All Account fields
-  - Selected fields from the contact's latest Opportunity
+  - All fields from the Contact's Latest Opportunity (Latest_Opportunity__r)
 
 ## Conclusion
 
