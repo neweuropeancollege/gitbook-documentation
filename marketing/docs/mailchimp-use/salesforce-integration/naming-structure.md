@@ -11,12 +11,11 @@ The structure is constructed of the following elements
 * Marketing stage
 * Source
 * Sales stage
-* Descriptor
 * Institution destination
 
 ... and formatted as so
 
-
+`Marketing stage` - `Source` `Sales stage` `Instituion destination`
 
 ### Elements Descriptions
 
