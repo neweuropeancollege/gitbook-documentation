@@ -23,10 +23,12 @@ Access ListViews by:
 - **Inline Editing**: Allows users to edit a single record directly within the ListView.
 - **Bulk Editing**: Users can select multiple records and apply changes to all selected records simultaneously. This feature streamlines mass updates, saving time and effort.
 
+![Bulk Editing](../../../.gitbook/assets/list-view-bulk-editing.png)
+
 Requirements for Bulk Editing
 - **Record Type Filter**: If the object has record types, a filter on record type is necessary for bulk editing to be enabled.
 - **Field Restrictions**: Certain fields, like the record type field, cannot be edited in bulk.
 
 ### Limitations and Considerations
 - **Non-Editable Fields**: Some fields may not be eligible for inline or bulk editing.
-- **Bulk Editing Availability**: Not always possible in every case. Refer to the Salesforce Help Article for detailed reasons.
+- **Bulk Editing Availability**: Not always possible in every case. Refer to this [Salesforce Help Article](https://help.salesforce.com/s/articleView?id=000384838&type=1) for detailed reasons.
