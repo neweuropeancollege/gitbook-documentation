@@ -8,7 +8,7 @@
 ## Mailchimp Use
 
 ### [🔗 Salesforce Integration](mailchimp-use/salesforce-integration/README.md)
-  * [The Exclusive Campaign Tracker Model](mailchimp-use/salesforce-integration/exclusive-campaign-tracker-model.md)
+  * [Exclusive Campaign Tracker Model](mailchimp-use/salesforce-integration/exclusive-campaign-tracker-model.md)
   * [Naming Structure](mailchimp-use/salesforce-integration/naming-structure.md)
 ### [🤖 Automation Management](mailchimp-use/automation-management/README.md)
   * [Our Current Automations](mailchimp-use/our-automations.README.md)
