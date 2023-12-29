@@ -2,8 +2,6 @@
 
 * [Table of Contents](README.md)
 
-***
-
 ## Setup
 
 * [Your Salesforce Account](setup/your-salesforce-account/README.md)
