@@ -15,16 +15,24 @@ The structure is constructed of the following elements
 
 ... and formatted as so
 
-`Marketing stage` - `Source` `Sales stage` `Instituion destination`
+`Marketing stage` - `Source` `Sales stage` `Institution destination`
+
+***
 
 ### Elements Descriptions
 
 #### Marketing stage
 
-<table><thead><tr><th width="135">Options</th><th>Significance</th></tr></thead><tbody><tr><td>Lead</td><td>a student inquirer that isn't a qualified applicant yet<br>a prospective partner that hasn't signed yet</td></tr><tr><td>Applicant</td><td>a student inquirer that has earned a qualified status</td></tr><tr><td>Partner</td><td>an educational agency that has signed a partnership contract with our organization</td></tr></tbody></table>
+<table><thead><tr><th width="135">Options</th><th>Significance</th></tr></thead><tbody><tr><td>Lead</td><td>- a student inquirer that isn't a qualified applicant yet<br>- a prospective partner that hasn't signed yet</td></tr><tr><td>Applicant</td><td>a student inquirer that has earned a qualified status</td></tr><tr><td>Partner</td><td>an educational agency that has signed a partnership contract with our organization</td></tr></tbody></table>
 
-Applied => Lead - Direct Applicant NEC
+#### Souce
 
-App - Eval Docs + App - Interviewing => Qualified Lead - Direct Applicant NEC (3 weeks)
+<table><thead><tr><th width=135>Options<th>Significance<tbody><tr><td>Direct<td>a prospective applicant that does not come from an agent<tr><td>Indirect<td>a prospective applicant provided to us by an agent</table>
 
-App - Requesting WUAS Decision - Closed Won => Applicant - Direct Applicant/Principal NEC (open)
+#### Sales stage
+
+<table><thead><tr><th width=135>Options<th>Significance<tbody><tr><td>Applicant<td>a prospect that has sent documents</table>
+
+#### Institution destination
+
+<table><thead><tr><th width=135>Options<th>Significance<tbody><tr><td>NEC<td>the prospect becomes a student of NEC</table>
