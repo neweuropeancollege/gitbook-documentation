@@ -10,7 +10,7 @@
 ***
 
 `Partner - Signed with NEC`
-
+s
 | Filter |
 |--------|
 | Latest_Opportunity_StageName__c = "Signed/In Partnership" |
