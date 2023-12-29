@@ -8,7 +8,6 @@
 |--------|
 | Latest_Opportunity_StageName__c = "Applied" |
 
-***
 
 `Lead - Direct Qualified Applicant NEC`
 
@@ -17,7 +16,6 @@
 | Latest_Opportunity_StageName__c = "AppEvalDocs" |
 | Latest_Opportunity_StageName__c = "AppInterview" |
 
-***
 
 `Applicant - Direct Applicant NEC`
 
@@ -30,7 +28,6 @@
 | Latest_Opportunity_Parent_Stage__c = "Arrival" |
 | Latest_Opportunity_Parent_Stage__c = "Complete" |
 
-***
 
 `Lead - Direct WOT NEC`
 
