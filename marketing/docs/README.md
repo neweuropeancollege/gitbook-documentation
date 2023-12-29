@@ -11,7 +11,7 @@
   * [Exclusive Campaign Tracker Model](mailchimp-use/salesforce-integration/exclusive-campaign-tracker-model.md)
   * [Naming Structure](mailchimp-use/salesforce-integration/naming-structure.md)
 ### [🤖 Automation Management](mailchimp-use/automation-management/README.md)
-  [Our Current Automations](mailchimp-use/our-automations/README.md)
+  * [Our Current Automations](mailchimp-use/our-automations/README.md)
     * [Applicants](mailchimp-use/our-automations/applicants.md)
     * [Partners](mailchimp-use/our-automations/partners.md)
   * [Triggering Automations](mailchimp-use/automation-management/triggering-automations.md)
