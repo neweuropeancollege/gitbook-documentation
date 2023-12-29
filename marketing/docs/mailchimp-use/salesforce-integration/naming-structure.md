@@ -19,7 +19,7 @@ The structure is constructed of the following elements
 
 ***
 
-### Elements Descriptions
+### Element Descriptions
 
 #### Marketing stage
 
