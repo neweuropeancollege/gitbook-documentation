@@ -12,7 +12,7 @@ This is typically found by going to the Interaction object page, changing the li
 
 **The audit process**  is a process that intends to turn unstructured data into structured data. What does that mean? An email, for example, has information like name, phone number, country of origin, desired program, desired term, etc. The auditor needs to simply **read the email** and  **extract information** from the email onto the info's respective field on the `interaction record`.
 
-- For example, if an email says
+- For example, if an email reads
 > My name is Art Vandalay and I'm interested in your bachelor program starting next year February. I like to play basketball.
 
 ...your auditing job would be to:
