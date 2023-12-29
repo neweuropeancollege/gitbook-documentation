@@ -4,7 +4,7 @@ Introduction
 
 This guide provides a comprehensive step-by-step process for creating and running a classic automation in MailChimp. It's crucial to understand that MailChimp refers to these as "classic automations," not campaigns. This distinction is important for effective utilization of the platform.
 
-{% embed url="https://us10.admin.mailchimp.com/customer-journey/#/create-campaign/explore/emailCampaign:custom" fullWidth="true" %}
+{% embed url="https://us10.admin.mailchimp.com/customer-journey/#/create-campaign/explore/emailCampaign:custom" fullWidth="false" %}
 Create a Classic Automation
 {% endembed %}
 
