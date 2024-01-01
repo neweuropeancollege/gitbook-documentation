@@ -36,14 +36,12 @@
 ### [OneDrive](onedrive/README.md)
   * [How to Find Files of Contacts](onedrive/how-to-find-files-of-contacts.md)
 
-## Data Model
-
-### [📊 Gravity Forms](/gravity-forms/README.md)
-  - [About the Integration](gravity-forms/about-the-integration.md)
-  - [Debugging Steps](gravity-forms/debugging-steps.md)
+## Gravity Forms
+* [About the Integration](gravity-forms/about-the-integration.md)
+* [Debugging Steps](gravity-forms/debugging-steps.md)
   
-### [🐒 Mailchimp](mailchimp/README.md)
-  * [About the Integration](mailchimp/about-the-integration.md)
+## MailChimp
+* [About the Integration](mailchimp/about-the-integration.md)
 
 ## Miscellaneous
 - [General Guidelines on Creating Reports](misc/creating-reports-guidelines.md)
