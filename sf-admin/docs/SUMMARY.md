@@ -7,6 +7,11 @@
 ## Maintenance
 
 * [Admin Dashboard](/maintenance/admin-dashboard/README.md)
+  * [Helpful Links](maintenance/admin-dashboard/helpful-links-component.md)
+  * [General Overview Dashboard](maintenance/admin-dashboard/general-overview.md)
+  * [Faulty Records Dashboard](maintenance/admin-dashboard/faulty-records.md)
+  * [Faulty Applicant Records Dashboard](maintenance/admin-dashboard/faulty-applicant-records.md)
+  * [Faulty Partner Records Dashboard](maintenance/admin-dashboard/faulty-partner-records.md)
 
 ## How Tos
 
