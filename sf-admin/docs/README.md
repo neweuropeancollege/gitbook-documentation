@@ -12,7 +12,7 @@
 
 ### [🐒 Mailchimp](mailchimp/)
 
-* [Maintaining Synced Lists](https://app.gitbook.com/s/X9wDLmtb04bI08Wb87zk/mailchimp-use/maintenance-work/maintaining-synced-lists)
+* [Maintaining Synced Lists](https://new-european-college.gitbook.io/documentation/mailchimp-use/maintenance-work/maintaining-synced-lists)
 
 ## How Tos
 
