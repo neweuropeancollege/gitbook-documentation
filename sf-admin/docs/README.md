@@ -2,7 +2,7 @@
 
 ## Maintenance
 
-### [Admin Dashboard](/maintenance/admin-dashboard/README.md)
+### [👩‍🏭 Admin Dashboard](maintenance/admin-dashboard/README.md)
   * [Helpful Links](maintenance/admin-dashboard/helpful-links-component.md)
   * [General Overview Dashboard](maintenance/admin-dashboard/general-overview.md)
   * [Faulty Records Dashboard](maintenance/admin-dashboard/faulty-records.md)
