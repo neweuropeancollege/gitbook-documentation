@@ -1,5 +1,7 @@
 ## Helpful Links Component
 
+This small component provides admins the ability to navigate to any page, whether within Salesforce or outside of it. It is located on the Admin Dashboard, and it is a great way to quickly access important resources. It is already set up with some useful links, but it can be customized to fit the needs of the Admin.
+
 - **Unimported MC Emails**
   - Directs to a list view of MC Subscriber Activity Records not imported.
   - Admins can quickly identify and address unprocessed MailChimp activities.
@@ -15,13 +17,15 @@
   - The Helpful Links component can be tailored to the Admin’s needs.
   - Admins can add or remove links, enhancing the relevance and efficiency of the dashboard.
   - Customization is done via the 'Edit Page' option, allowing for specific, role-based resource allocation.
+    - On the top right of the page, click the gear ⚙ icon and select 'Edit Page'.
+    - Click on the Helpful Links component and modify the properties on the right sidebar.
 
 - **Significance of Customizing Helpful Links**
   - It ensures that the Admin has quick access to the most relevant and frequently used resources.
   - Reduces the time spent searching for essential documents, increasing productivity.
   - Custom links can be aligned with ongoing projects or focus areas for the Admin team.
 
-### Unimported MC Emails Link
+### More information on the _Unimported MC Emails_ Link
 
 - **Purpose and Functionality**
   - The "Unimported MC Emails" link on the Admin Dashboard directs to a list view specifically showing MC Subscriber Activity Records that have not been imported into Salesforce.
@@ -48,7 +52,3 @@
 - **Importance of Regular Checks**
   - Regularly checking and updating unimported MC emails ensures that all marketing efforts are accurately reflected in Salesforce.
   - This practice is vital for maintaining data integrity and for the effectiveness of email marketing analysis and follow-up actions.
-
----
-
-_The "Unimported MC Emails" link is an essential tool for Salesforce Admins to manage and rectify MailChimp integration issues effectively. By utilizing the 'Update on Salesforce' functionality, both individually and in bulk, Admins can maintain seamless integration between MailChimp and Salesforce, ensuring that all marketing activities are accurately tracked and accounted for._
