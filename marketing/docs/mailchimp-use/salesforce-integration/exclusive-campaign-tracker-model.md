@@ -1,4 +1,4 @@
-# The Exclusive Campaign Tracker Model in Salesforce
+# Exclusive Campaign Tracker Model
 
 This documentation outlines the **Exclusive Campaign Tracker Model** used in Salesforce for determining which campaign or automation a contact should receive, with synchronization to MailChimp.
 
@@ -17,26 +17,24 @@ There are three key fields in Salesforce related to this process:
 ## Process Workflow
 
 1. **Determination of Campaign**:
-   - The campaign a contact should receive is determined in Salesforce.
-   - The decision is based on a formula that can utilize fields from the Contact object, related Account fields, and a subset of important fields from the contact’s latest Opportunity.
-
+   * The campaign a contact should receive is determined in Salesforce.
+   * The decision is based on a formula that can utilize fields from the Contact object, related Account fields, and a subset of important fields from the contact’s latest Opportunity.
 2. **Exclusive Campaign Tracker Field**:
-   - This field integrates the decisions from both the auto and manual fields.
-   - It serves as the central point for tracking the selected campaign for each contact.
-
+   * This field integrates the decisions from both the auto and manual fields.
+   * It serves as the central point for tracking the selected campaign for each contact.
 3. **Synchronization with MailChimp**:
-   - The value from the `Exclusive Campaign Tracker` field in Salesforce is synchronized with the corresponding contact's merge field in MailChimp.
-
+   * The value from the `Exclusive Campaign Tracker` field in Salesforce is synchronized with the corresponding contact's merge field in MailChimp.
 4. **MailChimp Automations**:
-   - Utilize the synchronized merge field from Salesforce to determine which automation/campaign a contact receives.
+   * Utilize the synchronized merge field from Salesforce to determine which automation/campaign a contact receives.
 
 ## Configuring Campaign Rules
 
-- The campaign rules are set in the `Exclusive Campaign Tracker Auto` formula field.
-- The configurator has access to:
-  - All Contact fields
-  - All Account fields
-  - All fields from the Contact's Latest Opportunity (Latest_Opportunity__r)
+* The campaign rules are set in the `Exclusive Campaign Tracker Auto` formula field.
+* The configurator has access to:
+  * All Contact fields
+  * All Account fields
+  * All fields from the Contact's Latest Opportunity (Latest\_Opportunity\_\_r)
+  * For more information on how to actually do this, [read this section of this article](../automation-management/triggering-automations.md#triggering-automations-in-mailchimp).
 
 ## Conclusion
 
