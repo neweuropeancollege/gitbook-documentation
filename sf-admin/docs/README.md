@@ -2,7 +2,7 @@
 
 ## Maintenance
 
-* [Daily Checks](maintenance/daily-checks.md)
+* [Admin Dashboard](maintenance/admin-dashboard/README.md)
 
 ## How Tos
 
