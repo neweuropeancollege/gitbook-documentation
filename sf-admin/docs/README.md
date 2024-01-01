@@ -2,8 +2,7 @@
 
 ## Maintenance
 
-### [🔎 Maintenance](Maintenance/README.md)
-  * [Daily Checks to be done Every Morning](Maintenance/daily-checks.md)
+* [Daily Checks](maintenance/daily-checks.md)
 
 ## How Tos
 
