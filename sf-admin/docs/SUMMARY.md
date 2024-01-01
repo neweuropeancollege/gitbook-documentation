@@ -6,7 +6,7 @@
 
 ## Maintenance
 
-* [Admin Dashboard](maintenance/admin-dashboard/README.md)
+* [Admin Dashboard](/maintenance/admin-dashboard/README.md)
 
 ## How Tos
 
