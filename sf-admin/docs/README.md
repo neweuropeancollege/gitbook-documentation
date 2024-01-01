@@ -8,7 +8,7 @@
   * [Faulty Records Dashboard](maintenance/admin-dashboard/faulty-records.md)
   * [Faulty Applicant Records Dashboard](maintenance/admin-dashboard/faulty-applicant-records.md)
   * [Faulty Partner Records Dashboard](maintenance/admin-dashboard/faulty-partner-records.md)
-  
+
 ### [🐒 Mailchimp](mailchimp/README.md)
   * [Maintaining Synced Lists](maintenace/maintaining-synced-lists.md)
 
@@ -42,7 +42,7 @@
   - [About the Integration](gravity-forms/about-the-integration.md)
   - [Debugging Steps](gravity-forms/debugging-steps.md)
   
-### [🐒 Mailchimp](/mailchimp/README.md)
+### [🐒 Mailchimp](mailchimp/README.md)
   * [About the Integration](mailchimp-use/about-the-integration.md)
 
 ## Miscellaneous
