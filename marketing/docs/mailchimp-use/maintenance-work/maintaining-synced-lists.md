@@ -1,4 +1,4 @@
-# Maintaining Synced Lists Between Salesforce and MailChimp
+# Maintaining Synchronized Lists between Mailchimp and Salesforce
 
 ## Introduction
 This document outlines best practices and considerations for maintaining synchronized contact lists between Salesforce and MailChimp, focusing on the nuances of the MailChimp to Salesforce connector plugin and its interaction with Salesforce data.
