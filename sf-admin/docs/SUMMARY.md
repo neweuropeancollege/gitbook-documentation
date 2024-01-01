@@ -12,7 +12,7 @@
   * [Faulty Partner Records Dashboard](maintenance/admin-dashboard/faulty-partner-records.md)
 
 * [🐒 Mailchimp](mailchimp/README.md)
-  * [Maintaining Synced Lists](maintenance/maintaining-synced-lists.md)
+  * [Maintaining Synced Lists](neweuropeancollege/marketing/docs/mailchimp-use/maintenance-work/maintaining-synced-lists.md)
 
 ## How Tos
 
