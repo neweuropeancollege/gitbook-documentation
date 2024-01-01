@@ -11,7 +11,7 @@
   * [Faulty Applicant Records Dashboard](maintenance/admin-dashboard/faulty-applicant-records.md)
   * [Faulty Partner Records Dashboard](maintenance/admin-dashboard/faulty-partner-records.md)
 * [🐒 Mailchimp](mailchimp/README.md)
-  * [Maintaining Synced Listsz](../../marketing/docs/mailchimp-use/maintenance-work/maintaining-synced-lists.md)
+  * [Maintaining Synced Lists](../../marketing/docs/mailchimp-use/maintenance-work/maintaining-synced-lists.md)
 
 ## How Tos
 
