@@ -1,0 +1,1 @@
+# Maintaining Synchronized Lists between Mailchimp and Salesforce
