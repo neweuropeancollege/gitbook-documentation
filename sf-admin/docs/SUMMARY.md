@@ -10,9 +10,8 @@
   * [Faulty Records Dashboard](maintenance/admin-dashboard/faulty-records.md)
   * [Faulty Applicant Records Dashboard](maintenance/admin-dashboard/faulty-applicant-records.md)
   * [Faulty Partner Records Dashboard](maintenance/admin-dashboard/faulty-partner-records.md)
-
 * [🐒 Mailchimp](mailchimp/README.md)
-  * [Maintaining Synced Lists](neweuropeancollege/marketing/docs/mailchimp-use/maintenance-work/maintaining-synced-lists.md)
+  * [Maintaining Synced Lists](https://new-european-college.gitbook.io/documentation/mailchimp-use/maintenance-work/maintaining-synced-lists)
 
 ## How Tos
 
@@ -42,6 +41,7 @@
 * [Debugging Steps](gravity-forms/debugging-steps.md)
 
 ## MailChimp
+
 * [About the Integration](mailchimp/about-the-integration.md)
 
 ## Miscellaneous
