@@ -1,7 +1,7 @@
 # Daily Checks to be done Every Morning
 
 ## Introduction
-This comprehensive guide is designed to assist Salesforce Admins in conducting thorough daily checks using the Admin Dashboard. The dashboard features four key areas:
+This comprehensive guide is designed to assist the Salesforce Admin in conducting thorough daily checks using the Admin Dashboard. The dashboard features four key areas:
 1. General Overview Dashboard
 2. Faulty Records Dashboard
 3. Faulty Applicant Records Dashboard
