@@ -42,7 +42,7 @@
   * [About the Integration](gravity-forms/about-the-integration.md)
   * [Debugging Steps](gravity-forms/debugging-steps.md)
 * [🐒 Mailchimp](mailchimp/README.md)
-  * [About the Integration](mailchimp/about-the-integration.md) 
+  * [About the Integration](mailchimp/about-the-integration.md)
 
 ## Miscellaneous
 
