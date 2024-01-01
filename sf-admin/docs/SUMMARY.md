@@ -39,12 +39,10 @@
 ## Data Model
 
 * [📊 Gravity Forms](gravity-forms/README.md)
-  * [About the Integration](data-model/gravity-forms/about-the-integration.md)
-  * [Debugging Steps](data-model/gravity-forms/debugging-steps.md)
+  * [About the Integration](gravity-forms/about-the-integration.md)
+  * [Debugging Steps](gravity-forms/debugging-steps.md)
 * [🐒 Mailchimp](mailchimp/README.md)
-  * [About the Integration](data-model/mailchimp/about-the-integration.md)
-  * [Maintenance Work](data-model/mailchimp/maintenance-work/README.md)
-    * [Maintaining Synced Lists](mailchimp/maintenance-work/maintaining-synced-lists.md)
+  * [About the Integration](mailchimp/about-the-integration.md)
 
 ## Miscellaneous
 

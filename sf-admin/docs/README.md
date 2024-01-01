@@ -43,7 +43,7 @@
   - [Debugging Steps](gravity-forms/debugging-steps.md)
 
 ### [🐒 Mailchimp](/mailchimp/README.md)
-  * [About the Integration](mailchimp-use/salesforce-integration/about-the-integration.md)
+  * [About the Integration](mailchimp-use/about-the-integration.md)
 
 ## Miscellaneous
 - [General Guidelines on Creating Reports](misc/creating-reports-guidelines.md)
