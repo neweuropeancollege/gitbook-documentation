@@ -2,7 +2,7 @@
 
 The admin dashboard should be checked every morning, ensuring data accuracy and integrity. This comprehensive guide is designed to assist Salesforce Admins in conducting thorough daily checks using the Admin Dashboard. The dashboard features four key areas:
 
-1. [General Overview Dashboard](maintenance/admin-dashboard/general-overview.md)
+1. [General Overview Dashboard](general-overview.md)
 2. Faulty Records Dashboard
 3. Faulty Applicant Records Dashboard
 4. Faulty Partner Records Dashboard
