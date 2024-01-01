@@ -9,6 +9,9 @@
   * [Faulty Applicant Records Dashboard](maintenance/admin-dashboard/faulty-applicant-records.md)
   * [Faulty Partner Records Dashboard](maintenance/admin-dashboard/faulty-partner-records.md)
 
+### [🐒 Mailchimp](/mailchimp/README.md)
+  * [Maintaining Synced Lists](maintenace/maintaining-synced-lists.md)
+
 ## How Tos
 
 ### [👥 Users](users/README.md)
@@ -41,8 +44,6 @@
 
 ### [🐒 Mailchimp](/mailchimp/README.md)
   * [About the Integration](mailchimp-use/salesforce-integration/about-the-integration.md)
-  * [Maintenance Work](/mailchimp-use/maintenance-work/README.md)
-    * [Maintaining Synced Lists](mailchimp/maintenance-work/maintaining-synced-lists.md)
 
 ## Miscellaneous
 - [General Guidelines on Creating Reports](misc/creating-reports-guidelines.md)
