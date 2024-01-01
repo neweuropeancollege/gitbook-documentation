@@ -10,7 +10,7 @@
   * [Faulty Partner Records Dashboard](maintenance/admin-dashboard/faulty-partner-records.md)
 
 ### [🐒 Mailchimp](mailchimp/README.md)
-  * [Maintaining Synced Lists](maintenace/maintaining-synced-lists.md)
+  * [Maintaining Synced Lists](maintenance/maintaining-synced-lists.md)
 
 ## How Tos
 
@@ -43,7 +43,7 @@
   - [Debugging Steps](gravity-forms/debugging-steps.md)
   
 ### [🐒 Mailchimp](mailchimp/README.md)
-  * [About the Integration](mailchimp-use/about-the-integration.md)
+  * [About the Integration](mailchimp/about-the-integration.md)
 
 ## Miscellaneous
 - [General Guidelines on Creating Reports](misc/creating-reports-guidelines.md)
