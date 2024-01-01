@@ -33,7 +33,7 @@
   * Academic Terms
     - [How to Create New Terms](programs-and-terms/How-to-Create-New-Terms.md)
 
-### [OneDrive](onedrive/README.md)
+## OneDrive
   * [How to Find Files of Contacts](onedrive/how-to-find-files-of-contacts.md)
 
 ## Gravity Forms
