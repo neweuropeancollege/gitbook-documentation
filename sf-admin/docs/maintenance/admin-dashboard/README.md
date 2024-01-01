@@ -11,6 +11,8 @@ Each section includes specific reports with detailed steps for resolution, ensur
 
 ## Additional Information
 
+### Helpful links component
+
 ### Auto-Refresh Configuration
 
 - **Faulty Records Dashboard and Faulty Applicant Records Dashboard**
