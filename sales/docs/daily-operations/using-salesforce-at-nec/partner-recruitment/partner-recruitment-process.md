@@ -33,8 +33,7 @@ Opportunities in business partnerships are identified and managed through:
 - **Dynamic Nature**: Requirements are generated dynamically, and may also be modified to suit the particular intricacies of the opportunity sales process.
 
 ### Required External Correspondences
-- **Outbound Correspondences**: E.g., Partnership agreement drafts sent to potential partners.
-- **Inbound Correspondences**: E.g., Approval or feedback from potential partners or legal consultants.
+- **Outbound Correspondences**: E.g., Partnership agreement drafts sent to prospective partners.
 
 ## Progression and Approval
 - **Automatic Progression**: Opportunities move forward automatically based on approved requirements.
