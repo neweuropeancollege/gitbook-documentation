@@ -43,18 +43,18 @@ Auditing interaction records is not just about maintaining data accuracy, but it
 ## How to do a Full and Complete Audit
 
 1. First, navigate to the interaction record you wish to audit. This is typically found by going to the Interaction object page, changing the list view to _My Interactions to Audit_ and starting from the bottom up as it is order by latest interaction at the top.
-2.  Before you do anything, you must ensure the `Record Type` of the interaction is correctly set. Please refer to the [chart below](./#the-record-type-of-the-interaction-depends-on-its-sender) to find the correct record type.
+2.  Before you do anything, you must ensure the `Record Type` of the interaction is correctly set. So once you've opened an interaction record, click on  `Change Record Type`  on the top right. Please refer to the [chart below](./#the-record-type-of-the-interaction-depends-on-its-sender) to find the correct record type.
 
     * Selecting the correct record type means providing `sender` and `about` information. This includes the following fields:
-      * `Account`
-      * `Contact`
-      * `Opportunity`
-      * `Email`
-      * `Last Name`\
+      * `Account` = sender-related
+      * `Contact` = sender-related
+      * `Opportunity` = about-related
+      * `Email` = sender-related
+      * `Last Name` = sender-related \
         \
         and may also include
-      * `Affiliated Account`
-      * `Affiliated Contact`\
+      * `Affiliated Account` = about-related
+      * `Affiliated Contact` = about-related \
 
 
     <mark style="background-color:yellow;">Please refer to the</mark> [<mark style="background-color:yellow;">chart below</mark>](./#the-record-type-of-the-interaction-depends-on-its-sender) <mark style="background-color:yellow;">to choose the correct record type, and complete the necessary steps for that record type</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**before you continue**</mark><mark style="background-color:yellow;">.</mark>\
