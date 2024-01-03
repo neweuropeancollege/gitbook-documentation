@@ -1,4 +1,4 @@
-# Auditing Interactions
+# 🥰 Auditing Interactions
 
 ## Overview
 
@@ -14,8 +14,7 @@ Auditing interaction records is a critical process in managing data within our o
 2. **Proofreading and Quality Control**: Even structured data can contain errors. Auditing enables the identification and correction of these inaccuracies. Incorrect information in fields like addresses can lead to communication barriers or operational inefficiencies.
 3. **File Identification and Clarification**: In cases where files are submitted, although humans can understand the content, systems may not automatically recognize the file type or content. Auditing involves telling the system what the file is, making it understandable and usable within the organizational framework.
 4. **Consolidation of Communication**: Interaction records consolidate various forms of communication – emails, form submissions, phone calls, in-person interactions, and event engagements – into a unified format. This consolidation provides a convenient way to manage and access all forms of communication in one place.
-5.  **Rate the Sender**: Each interaction record gives an opportunity to assess the sender's credibility, reliability, and relevance. These ratings are crucial in understanding the sender's overall profile and potential impact on the organization.\
-
+5.  **Rate the Sender**: Each interaction record gives an opportunity to assess the sender's credibility, reliability, and relevance. These ratings are crucial in understanding the sender's overall profile and potential impact on the organization.\\
 
     By consolidating these individual ratings over time, we gain a comprehensive overview of each sender. This holistic view aids in:
 
@@ -43,21 +42,21 @@ Auditing interaction records is not just about maintaining data accuracy, but it
 ## How to do a Full and Complete Audit
 
 1. First, navigate to the interaction record you wish to audit. This is typically found by going to the Interaction object page, changing the list view to _My Interactions to Audit_ and starting from the bottom up as it is order by latest interaction at the top.
-2.  Before you do anything, you must ensure the `Record Type` of the interaction is correctly set. So once you've opened an interaction record, click on  `Change Record Type`  on the top right. Please refer to the [chart below](./#the-record-type-of-the-interaction-depends-on-its-sender) to find the correct record type.
+2.  Before you do anything, you must ensure the `Record Type` of the interaction is correctly set. So once you've opened an interaction record, click on `Change Record Type` on the top right. Please refer to the [chart below](./#the-record-type-of-the-interaction-depends-on-its-sender) to find the correct record type.
 
     * Selecting the correct record type means providing `sender` and `about` information. This includes the following fields:
-      * `Account` = sender-related
-      * `Contact` = sender-related
-      * `Opportunity` = about-related
-      * `Email` = sender-related
-      * `Last Name` = sender-related \
+      * `Account` <mark style="color:orange;">sender-related</mark>
+      * `Contact` <mark style="color:orange;">sender-related</mark>
+      * `Opportunity` <mark style="color:blue;">about-related</mark>
+      * `Email` <mark style="color:orange;">sender-related</mark>
+      * `Last Name` <mark style="color:orange;">sender-related</mark>\
         \
         and may also include
-      * `Affiliated Account` = about-related
-      * `Affiliated Contact` = about-related \
+      * `Affiliated Account` <mark style="color:blue;">about-related</mark>
+      * `Affiliated Contact` <mark style="color:blue;">about-related</mark>\
 
 
-    <mark style="background-color:yellow;">Please refer to the</mark> [<mark style="background-color:yellow;">chart below</mark>](./#the-record-type-of-the-interaction-depends-on-its-sender) <mark style="background-color:yellow;">to choose the correct record type, and complete the necessary steps for that record type</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**before you continue**</mark><mark style="background-color:yellow;">.</mark>\
+    <mark style="background-color:yellow;">Please refer to the</mark> [<mark style="background-color:yellow;">chart below</mark>](./#the-record-type-of-the-interaction-depends-on-its-sender) <mark style="background-color:yellow;">to choose the correct record type, and complete the necessary steps for that record type</mark> <mark style="background-color:yellow;">**before you continue**</mark><mark style="background-color:yellow;">.</mark>\
 
 3. Find the **`Interaction Status`** field and change the selection from Audit Required to **`New`**
    * It's the first field, right at the top.
@@ -78,11 +77,7 @@ Auditing interaction records is not just about maintaining data accuracy, but it
 
 Different kinds of interactions with our organization dictate the record type the interaction should have. Please use the information below to select the correct record type for the interaction you are auditing.
 
-
-
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Student Recruitment</strong></td><td>When the interaction is <strong>from a prospective applicant</strong> and is <strong>about their inquiry or application</strong> to NEC.</td><td><a href="student-recruitment.md">student-recruitment.md</a></td></tr><tr><td><strong>Principal Recruitment</strong></td><td>When the interaction is <strong>from an agent</strong> of a registered agency with NEC and is <strong>about an application of one of their students</strong> to NEC.</td><td><a href="principal-recruitment.md">principal-recruitment.md</a></td></tr><tr><td><strong>Partner Recruitment</strong></td><td>When the interaction is <strong>from an agent</strong> and is <strong>about their agency's desire to partner</strong> with NEC.</td><td><a href="partner-recruitment.md">partner-recruitment.md</a></td></tr><tr><td><strong>Other</strong></td><td>When the interaction does not <strong>fully</strong> meet any of the conditions of the above record types.</td><td><a href="other.md">other.md</a></td></tr></tbody></table>
-
-
 
 {% hint style="info" %}
 A **registered agency** is an agency that has an account in our database. It does not require the agency to have completed the partner recruitment process.
