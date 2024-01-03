@@ -1,4 +1,4 @@
-# How to Audit and the Audit Process
+# Auditing interactions is a central responsibility of recruiters at NEC
 
 ## Overview
 Prospective students interact with NEC, either through an email to any of our admission consultants, a form submission through any of our forms, a telephone call to our number, a visit to our campus, etc...
@@ -27,13 +27,14 @@ The audit process involves a couple other things, here's the full list of things
 1. Find the  **`Interaction Status`**  field and change the selection from Audit Required to  **`New`**
     * It's the first field, right at the top.
 2. Find the fields  **`Rating of Intention`**  and  **`Quality of Communication`**  and provide them, judging the values solely based on the contents of the current interaction.
-    * These fields are not mandatory. That's because some interactions don't qualify a judgment on the prospect.
-    * Providing a value for these rating fields will allow you to  **prioritize your work ** later, an absolute must when work volume rises.
-3. **Audit**  the interaction, as it was explained by the audit process.
-    * Remember, this part only requires you to extract info from the contents of this current interaction record. That means if you remember the prospect had informed you of something in an earlier interaction, it _does not_ need to be reiterated during this audit.
+    * These fields are mandatory. That's so we can later rate the quality of the opportunity, and the likelihood of the opportunity to close successfully.
+    * Providing a value for these rating fields will also allow you to **prioritize your work** later, an absolute must when work volume rises.
+3. **Audit**  the interaction, as it was explained by the audit process above with Art Vandalay.
+    * Remember, this part only requires you to extract info from the contents of this current interaction record. That means if you remember the prospect had informed you of something in an earlier interaction, it _does not_ need to be reiterated during this audit. That is also why you do not see the current data about the contact prefilled out on the interaction!
 4. Specify whether you want the system to automatically create a  **task for you to follow up**  on this interaction. This is on by default for your convenience.
+    * Find the  `Task Information`  section.
     * You may specify by when you want this task to be due (default _today_)
     * You may specify the priority of this interaction (default _Normal_)
     * You may specify additional comments to remind you as you complete the task (no need to repeat the interaction contents here, you can automatically see the interaction contents as you complete your task.)
 5. Hit  **save**.
-6. Transfer any documents if the interaction came with attachments. (Easier to show this visually, ask someone if you think you need help.)
+6. If the interaction came with files, transfer those files (documents) using the dialog window on the right. It is easier to show this visually. Ask someone if you think you need help.

@@ -14,9 +14,13 @@
   * [List Views and Bulk Editing](daily-operations/learn-salesforce/list-views-and-bulk-editing.md)
   * [Navigating and Understanding Salesforce](daily-operations/learn-salesforce/navigating-and-understanding-salesforce.md)
 * 💻 Using Salesforce at NEC
+  * 🥰 **Auditing Interactions**
+    * [Student Recruitment](daily-operations/using-salesforce-at-nec/interaction-auditing/student-recruitment.md)
+    * [Principal Recruitment](daily-operations/using-salesforce-at-nec/interaction-auditing/principal-recruitment.md)
+    * [Partner Recruitment](daily-operations/using-salesforce-at-nec/interaction-auditing/partner-recruitment.md)
+    * [Other](daily-operations/using-salesforce-at-nec/interaction-auditing/other.md)
   * 💼 General Workflow
     * [How to Add Feedback Provided by WUAS](daily-operations/using-salesforce-at-nec/general-workflow/adding-feedback-from-wuas.md)
-    * [How to Audit and the Audit Process](daily-operations/using-salesforce-at-nec/general-workflow/how-to-audit-and-the-audit-process.md)
     * [Email Address Records and Why They Are So Important](daily-operations/using-salesforce-at-nec/general-workflow/importance-of-email-address-records.md)
     * [Logging a Live Interaction (Phone Call or Campus Visit)](daily-operations/using-salesforce-at-nec/general-workflow/logging-a-live-interaction.md)
     * [The Requirements System](daily-operations/using-salesforce-at-nec/general-workflow/the-requirements-system.md)
