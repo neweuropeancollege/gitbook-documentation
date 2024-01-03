@@ -26,13 +26,13 @@ Salesforce integrates with OneDrive for file storage. When files are submitted v
 ### Locating Files Directly in OneDrive
 
 1. **Obtain the Account ID from Salesforce URL:**
-   * While on the account record page in Salesforce, observe the URL in the browser.
-   * The Account ID is part of this URL. It typically follows the pattern `/lightning/r/Account/` and is a 15 or 18 character alphanumeric code.
+    * While on the account record page in Salesforce, observe the URL in the browser.
+    * The Account ID is part of this URL. It typically follows the pattern `/lightning/r/Account/` and is a 15 or 18 character alphanumeric code.
 2. **Use Account ID to Find Files in OneDrive:**
-   * Navigate to the provided [OneDrive folder link](https://neweuropeancollege-my.sharepoint.com/personal/salesforcenec\_new-european-college\_com/\_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsalesforcenec%5Fnew%2Deuropean%2Dcollege%5Fcom%2FDocuments%2FSalesforce%20Files\&view=0).
-    * To access the link, you must be logged in as salesforcenec@new-european-college.com.
-   * Search for a folder named with the Salesforce Account ID.
-   * Review the files within this folder to find the ones related to the account.
+    * Navigate to the provided [OneDrive folder link](https://neweuropeancollege-my.sharepoint.com/personal/salesforcenec\_new-european-college\_com/\_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsalesforcenec%5Fnew%2Deuropean%2Dcollege%5Fcom%2FDocuments%2FSalesforce%20Files\&view=0).
+        * To access the link, you must be logged in as salesforcenec@new-european-college.com.
+    * Search for a folder named with the Salesforce Account ID.
+    * Review the files within this folder to find the ones related to the account.
 
 ## Important Notes
 
