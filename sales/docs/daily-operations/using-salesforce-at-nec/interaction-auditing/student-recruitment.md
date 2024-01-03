@@ -30,7 +30,7 @@ After selecting the `Student Recruitment` record type, you will encounter a sect
 * Each field should be accurately filled to reflect the student's details.
 
 {% hint style="info" %}
-Are you having a hard time selecting the correct record? Here are [ways to make it easier](finding-records-in-lookup-fields.md).
+Are you having a hard time selecting the correct record? Here are [ways to make it easier](../../learn-salesforce/finding-records-in-lookup-fields.md).
 {% endhint %}
 
 ## Finalizing the Record Type Selection

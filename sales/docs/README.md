@@ -11,6 +11,7 @@
 ### ☁ Learn Salesforce
   * [Navigating & Understanding Salesforce](daily-operations/learn-salesforce/navigating-and-understanding-salesforce.md)
   * [List Views & Bulk Editing](daily-operations/learn-salesforce/list-views-and-bulk-editing.md)
+  * [Finding Records in Lookup Fields](daily-operations/learn-salesforce/finding-records-in-lookup-fields.md)
 ### 💻 Using Salesforce at NEC
 #### 🥰 [**Auditing Interactions**](daily-operations/using-salesforce-at-nec/interaction-auditing/README.md)
   * [Student Recruitment](daily-operations/using-salesforce-at-nec/interaction-auditing/student-recruitment.md)
