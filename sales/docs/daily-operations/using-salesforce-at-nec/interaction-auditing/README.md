@@ -10,15 +10,9 @@ Each and every interaction that a prospective student makes with NEC  **is recor
 Auditing interaction records is a critical process in managing data within our organization. This practice ensures the accuracy, consistency, and reliability of data gathered from various sources. Here are some key reasons for auditing interaction records:
 
 1. **Data Validation**: Interaction records often contain unstructured or semi-structured data. Auditing helps validate this data, ensuring it meets the organization's standards. For instance, people may enter their names in different formats (like using lowercase or mixing up first and last names). Auditing corrects these inconsistencies.
-
 2. **Proofreading and Quality Control**: Even structured data can contain errors. Auditing enables the identification and correction of these inaccuracies. Incorrect information in fields like addresses can lead to communication barriers or operational inefficiencies.
-
 3. **File Identification and Clarification**: In cases where files are submitted, although humans can understand the content, systems may not automatically recognize the file type or content. Auditing involves telling the system what the file is, making it understandable and usable within the organizational framework.
-
 4. **Consolidation of Communication**: Interaction records consolidate various forms of communication – emails, form submissions, phone calls, in-person interactions, and event engagements – into a unified format. This consolidation provides a convenient way to manage and access all forms of communication in one place.
-
-In conclusion, auditing interaction records is not just a matter of data organization but a crucial step in maintaining the integrity and usefulness of the information that flows into an organization. This process ensures that all types of incoming communication are accurately represented, understood, and utilized for effective decision-making.
-
 5. **Rate the Sender**: Each interaction record gives an opportunity to assess the sender's credibility, reliability, and relevance. These ratings are crucial in understanding the sender's overall profile and potential impact on the organization.
 
 By consolidating these individual ratings over time, we gain a comprehensive overview of each sender. This holistic view aids in:
