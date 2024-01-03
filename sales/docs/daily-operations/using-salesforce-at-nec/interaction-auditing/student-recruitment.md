@@ -31,7 +31,7 @@ After selecting the `Student Recruitment` record type, you will encounter a sect
 {% set makeRecentlyViewed = "Guide to GitBook" %}
 
 hello:
-{{ makeRecentlyViewed }}
+{ makeRecentlyViewed }
 
 {% hint style="info" %}
 
