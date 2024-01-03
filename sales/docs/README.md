@@ -16,7 +16,7 @@
 #### 🥰 [**Auditing Interactions**](daily-operations/using-salesforce-at-nec/interaction-auditing/README.md)
   * [Student Recruitment](daily-operations/using-salesforce-at-nec/interaction-auditing/student-recruitment.md)
   * [Principal Recruitment](daily-operations/using-salesforce-at-nec/interaction-auditing/principal-recruitment.md)
-  * [Partner Recruitment](daily-operations/using-salesforce-at-nec/interaction-auditing/partner-recruitment.md)
+  * [Agent Recruitment](daily-operations/using-salesforce-at-nec/interaction-auditing/agent-recruitment.md)
   * [Other](daily-operations/using-salesforce-at-nec/interaction-auditing/other.md)
 #### 💼 **General Workflow**
   * [The Requirements System](daily-operations/using-salesforce-at-nec/general-workflow/the-requirements-system.md)

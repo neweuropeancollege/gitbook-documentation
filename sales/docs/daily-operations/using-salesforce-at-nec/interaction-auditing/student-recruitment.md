@@ -24,13 +24,24 @@ After selecting the `Student Recruitment` record type, you will encounter a sect
 
 * The `Email` field should be populated with the email address of the prospective student or applicant.
 
+### Mandatory Fields
+
+* While the `Email` field is always mandatory, the `Account`, `Contact`, and `Opportunity` fields are mandatory **only if they exist in the system**.
+
+### Record Existence
+
+* If the `Contact` record exists, then the `Account` record definitely exists. The same is true in reverse.
+* In cases where `Account` and `Contact` exist, it is highly likely that an `Opportunity` also exists. Always verify to avoid missing existing records.
+* **Important**: It is crucial to ensure that if these records exist, they must be selected to avoid creating duplicates and additional work.
+
 ### Typing and Selecting Records
 
-* For the `Account`, `Contact`, and `Opportunity` fields, you will need to type in the respective search fields to find and select the correct records.
-* Each field should be accurately filled to reflect the student's details.
+* For the `Account`, `Contact`, and `Opportunity` fields, we are looking for the sender's account, contact, and opportunity records.
+* If whichever of these records do not exist, leave them empty. The interaction processor will create the account, contact, and opportunity for you, when left empty.
+* If they do exist, type in the respective search fields to find and select the correct records.
 
 {% hint style="info" %}
-Are you having a hard time selecting the correct record? Here are [ways to make it easier](../../learn-salesforce/finding-records-in-lookup-fields.md).
+Struggling to find the correct record among similar ones? Here are [ways to make it easier](../../learn-salesforce/finding-records-in-lookup-fields.md).
 {% endhint %}
 
 ## Finalizing the Record Type Selection
