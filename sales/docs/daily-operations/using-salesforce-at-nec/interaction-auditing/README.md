@@ -15,10 +15,10 @@ Auditing interaction records is a critical process in managing data within our o
 4. **Consolidation of Communication**: Interaction records consolidate various forms of communication – emails, form submissions, phone calls, in-person interactions, and event engagements – into a unified format. This consolidation provides a convenient way to manage and access all forms of communication in one place.
 5. **Rate the Sender**: Each interaction record gives an opportunity to assess the sender's credibility, reliability, and relevance. These ratings are crucial in understanding the sender's overall profile and potential impact on the organization.
 
-By consolidating these individual ratings over time, we gain a comprehensive overview of each sender. This holistic view aids in:
+    By consolidating these individual ratings over time, we gain a comprehensive overview of each sender. This holistic view aids in:
 
-  - **Prioritization**: Understanding the sender's rating helps in prioritizing responses and resources. Higher-rated interactions might be addressed more promptly or given more attention.
-  - **Forecasting**: The cumulative rating can be used for forecasting and strategic planning, as it provides insights into the sender's potential future interactions and their significance.
+    - **Prioritization**: Understanding the sender's rating helps in prioritizing responses and resources. Higher-rated interactions might be addressed more promptly or given more attention.
+    - **Forecasting**: The cumulative rating can be used for forecasting and strategic planning, as it provides insights into the sender's potential future interactions and their significance.
 
 Auditing interaction records is not just about maintaining data accuracy, but it also plays a strategic role in evaluating and leveraging sender information for organizational decision-making.
 
