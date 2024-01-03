@@ -1,5 +1,3 @@
-{% include "./making-recently-viewed.md" %}
-
 # Student Recruitment
 
 This guide provides a detailed overview of the process involved in selecting the `Student Recruitment` record type during the auditing of interactions.
@@ -32,8 +30,9 @@ After selecting the `Student Recruitment` record type, you will encounter a sect
 
 {% set makeRecentlyViewed = "Guide to GitBook" %}
 
-hello:
-{{ makeRecentlyViewed }}
+{% include "./making-recently-viewed.md" %}
+hello: {% {{ makeRecentlyViewed }} }
+
 
 {% hint style="info" %}
 
