@@ -28,6 +28,8 @@ After selecting the `Student Recruitment` record type, you will encounter a sect
 - For the `Account`, `Contact`, and `Opportunity` fields, you will need to type in the respective search fields to find and select the correct records.
 - Each field should be accurately filled to reflect the student's details.
 
+{% set makeRecentlyViewed = "Guide to GitBook" %}
+
 hello:
 {{ makeRecentlyViewed }}
 
