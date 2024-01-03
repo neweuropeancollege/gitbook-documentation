@@ -28,9 +28,11 @@ After selecting the `Student Recruitment` record type, you will encounter a sect
 - For the `Account`, `Contact`, and `Opportunity` fields, you will need to type in the respective search fields to find and select the correct records.
 - Each field should be accurately filled to reflect the student's details.
 
+hello:
+{{ makeRecentlyViewed }}
+
 {% hint style="info" %}
 
-{{ makeRecentlyViewed }}
 
 ## Making the Correct Record a Recently Viewed Item
 
