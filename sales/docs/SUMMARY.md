@@ -11,8 +11,8 @@
 ## Daily Operations
 
 * [☁ Learn Salesforce](daily-operations/learn-salesforce/README.md)
-  * [List Views and Bulk Editing](daily-operations/learn-salesforce/list-views-and-bulk-editing.md)
   * [Navigating and Understanding Salesforce](daily-operations/learn-salesforce/navigating-and-understanding-salesforce.md)
+  * [List Views and Bulk Editing](daily-operations/learn-salesforce/list-views-and-bulk-editing.md)
   * [Finding Records in Lookup Fields](daily-operations/learn-salesforce/finding-records-in-lookup-fields.md)
 * [💻 Using Salesforce at NEC](daily-operations/using-salesforce-at-nec/README.md)
   * [🥰 Auditing Interactions](daily-operations/using-salesforce-at-nec/interaction-auditing/README.md)
