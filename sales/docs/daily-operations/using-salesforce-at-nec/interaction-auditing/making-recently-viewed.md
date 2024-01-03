@@ -1,0 +1,1 @@
+{% set makeRecentlyViewed = "Guide to GitBook" %}

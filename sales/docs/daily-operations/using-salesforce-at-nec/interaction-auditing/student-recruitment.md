@@ -30,6 +30,8 @@ After selecting the `Student Recruitment` record type, you will encounter a sect
 
 {% hint style="info" %}
 
+{{ makeRecentlyViewed }}
+
 ## Making the Correct Record a Recently Viewed Item
 
 1. **Identifying Common Naming Challenges**
