@@ -42,7 +42,7 @@
 
 ## MailChimp
 
-* [About the Integration](mailchimp/about-the-integration.md)
+* [About the Integration](../../marketing/docs/mailchimp-use/salesforce-integration/about-the-integration.md)
 
 ## Miscellaneous
 
