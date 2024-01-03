@@ -4,32 +4,32 @@
 
 ## Setup
 
-* 🔒 Your Salesforce Account
+* [🔒 Your Salesforce Account](setup/your-salesforce-account/README.md)
   * [Allow an Admin to Login as You](setup/your-salesforce-account/allow-an-admin-to-login-as-you.md)
   * [Set Up Your Signature](setup/your-salesforce-account/set-up-your-signature.md)
 
 ## Daily Operations
 
-* ☁ Learn Salesforce
+* [☁ Learn Salesforce](daily-operations/learn-salesforce/README.md)
   * [List Views and Bulk Editing](daily-operations/learn-salesforce/list-views-and-bulk-editing.md)
   * [Navigating and Understanding Salesforce](daily-operations/learn-salesforce/navigating-and-understanding-salesforce.md)
-* 💻 Using Salesforce at NEC
-  * 🥰 [Auditing Interactions](daily-operations/using-salesforce-at-nec/interaction-auditing/README.md)
+* [💻 Using Salesforce at NEC](daily-operations/using-salesforce-at-nec/README.md)
+  * [Auditing Interactions](daily-operations/using-salesforce-at-nec/interaction-auditing/README.md)
     * [Student Recruitment](daily-operations/using-salesforce-at-nec/interaction-auditing/student-recruitment.md)
     * [Principal Recruitment](daily-operations/using-salesforce-at-nec/interaction-auditing/principal-recruitment.md)
     * [Partner Recruitment](daily-operations/using-salesforce-at-nec/interaction-auditing/partner-recruitment.md)
     * [Other](daily-operations/using-salesforce-at-nec/interaction-auditing/other.md)
-  * 💼 General Workflow
+  * [💼 General Workflow](daily-operations/using-salesforce-at-nec/general-workflow/README.md)
     * [How to Add Feedback Provided by WUAS](daily-operations/using-salesforce-at-nec/general-workflow/adding-feedback-from-wuas.md)
     * [Email Address Records and Why They Are So Important](daily-operations/using-salesforce-at-nec/general-workflow/importance-of-email-address-records.md)
     * [Logging a Live Interaction (Phone Call or Campus Visit)](daily-operations/using-salesforce-at-nec/general-workflow/logging-a-live-interaction.md)
     * [The Requirements System](daily-operations/using-salesforce-at-nec/general-workflow/the-requirements-system.md)
     * [Sending Bulk Emails](daily-operations/using-salesforce-at-nec/general-workflow/sending-bulk-emails.md)
-  * 🎓 Student Recruitment
+  * [🎓 Student Recruitment](daily-operations/using-salesforce-at-nec/student-recruitment/README.md)
     * [Application Process](daily-operations/using-salesforce-at-nec/student-recruitment/application-process.md)
-  * 🤝 Partner Recruitment
+  * [🤝 Partner Recruitment](daily-operations/using-salesforce-at-nec/partner-recruitment/README.md)
     * [Partner Recruitment Process](daily-operations/using-salesforce-at-nec/partner-recruitment/partner-recruitment-process.md)
-  * 🤔 Problem Solving
+  * [🤔 Problem Solving](daily-operations/using-salesforce-at-nec/problem-solving/README.md)
     * [How to Rectify an Incorrect Audit](daily-operations/using-salesforce-at-nec/problem-solving/how-to-rectify-an-incorrect-audit.md)
     * [Opportunity Stuck on a Stage](daily-operations/using-salesforce-at-nec/problem-solving/opportunity-stuck-on-a-stage.md)
     * [Importing Missing Emails from Outlook to Salesforce](daily-operations/using-salesforce-at-nec/problem-solving/importing-missing-emails-from-outlook-to-salesforce.md)
