@@ -14,7 +14,7 @@
   * [List Views and Bulk Editing](daily-operations/learn-salesforce/list-views-and-bulk-editing.md)
   * [Navigating and Understanding Salesforce](daily-operations/learn-salesforce/navigating-and-understanding-salesforce.md)
 * 💻 Using Salesforce at NEC
-  * 🥰 **Auditing Interactions**
+  * 🥰 [Auditing Interactions](daily-operations/using-salesforce-at-nec/interaction-auditing/README.md)
     * [Student Recruitment](daily-operations/using-salesforce-at-nec/interaction-auditing/student-recruitment.md)
     * [Principal Recruitment](daily-operations/using-salesforce-at-nec/interaction-auditing/principal-recruitment.md)
     * [Partner Recruitment](daily-operations/using-salesforce-at-nec/interaction-auditing/partner-recruitment.md)
