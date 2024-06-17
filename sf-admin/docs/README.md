@@ -29,11 +29,11 @@
 ### [🧬 Programs and Terms](programs-and-terms/)
 
 * Academic Programs
-  * [How to Create and Manage Programs](programs-and-terms/how-to-create-and-manage-programs.md)
-  * [How to Create New Academic Program Accounts](programs-and-terms/How-to-Create-New-Academic-Program-Accounts.md)
-  * [How to Create New Specializations](programs-and-terms/How-to-Create-New-Specializations.md)
+  * [How to Create and Manage Programs](programs-and-terms/academic-programs/how-to-create-and-manage-programs.md)
+  * [How to Create New Academic Program Accounts](programs-and-terms/academic-programs/how-to-create-new-academic-program-accounts.md)
+  * [How to Create New Specializations](programs-and-terms/academic-programs/how-to-create-new-specializations.md)
 * Academic Terms
-  * [How to Create New Terms](programs-and-terms/How-to-Create-New-Terms.md)
+  * [How to Create New Terms](programs-and-terms/academic-terms/how-to-create-new-terms.md)
 
 ## OneDrive
 

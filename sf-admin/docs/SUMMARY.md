@@ -25,7 +25,7 @@
     * [Manager Permission Set Group](users/existing-users/what-the-manager-permission-set-does.md)
 * [🧬 Programs and Terms](programs-and-terms/README.md)
   * [Academic Programs](programs-and-terms/academic-programs/README.md)
-    * [New Programs](programs-and-terms/how-to-create-and-manage-programs.md)
+    * [New Programs](programs-and-terms/academic-programs/how-to-create-and-manage-programs.md)
     * [New Academic Accounts](programs-and-terms/academic-programs/how-to-create-new-academic-program-accounts.md)
     * [New Specializations](programs-and-terms/academic-programs/how-to-create-new-specializations.md)
   * [Academic Terms](programs-and-terms/academic-terms/README.md)
