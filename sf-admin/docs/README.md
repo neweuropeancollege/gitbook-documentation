@@ -19,12 +19,12 @@
 ### [👥 Users](users/)
 
 * New Users
-  * [Adding a New Recruiter to the Sales Team](users/adding-a-new-recruiter-to-the-sales-team.md)
+  * [Adding a New Recruiter to the Sales Team](users/new-users/adding-a-new-recruiter-to-the-sales-team.md)
 * Existing Users
-  * [Handling the Departure of a Recruiter](users/handling-the-departure-of-a-recruiter.md)
-  * [Handling the Departure of a Recruitment Manager](users/Handling-the-Departure-of-a-Recruitment-Manager.md)
-  * [How to Set Up and Work with Permissions and Permission Sets](users/How-to-Set-Up-and-Work-with-Permissions-and-Permission-Sets.md)
-  * [What the Manager Permission Set Does](users/What-the-Manager-Permission-Set-Does.md)
+  * [Handling the Departure of a Recruiter](users/existing-users/handling-the-departure-of-a-recruiter.md)
+  * [Handling the Departure of a Recruitment Manager](users/existing-users/Handling-the-Departure-of-a-Recruitment-Manager.md)
+  * [How to Set Up and Work with Permissions and Permission Sets](users/existing-users/how-to-set-up-and-work-with-permissions-and-permission-sets.md)
+  * [What the Manager Permission Set Does](users/existing-users/what-the-manager-permission-set-does.md)
 
 ### [🧬 Programs and Terms](programs-and-terms/)
 

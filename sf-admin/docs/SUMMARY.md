@@ -16,20 +16,20 @@
 ## How Tos
 
 * [👥 Users](users/README.md)
-  * [New Users](how-tos/users/new-users/README.md)
-    * [Adding a New Recruiter](users/adding-a-new-recruiter-to-the-sales-team.md)
-  * [Existing Users](how-tos/users/existing-users/README.md)
-    * [Removing a Recruiter](users/handling-the-departure-of-a-recruiter.md)
-    * [Removing a Manager](how-tos/users/existing-users/handling-the-departure-of-a-recruitment-manager.md)
-    * [Permission Set Groups](how-tos/users/existing-users/how-to-set-up-and-work-with-permissions-and-permission-sets.md)
-    * [Manager Permission Set Group](how-tos/users/existing-users/what-the-manager-permission-set-does.md)
+  * [New Users](users/new-users/README.md)
+    * [Adding a New Recruiter](users/new-users/adding-a-new-recruiter-to-the-sales-team.md)
+  * [Existing Users](users/existing-users/README.md)
+    * [Removing a Recruiter](users/existing-users/handling-the-departure-of-a-recruiter.md)
+    * [Removing a Manager](users/existing-users/handling-the-departure-of-a-recruitment-manager.md)
+    * [Permission Set Groups](users/existing-users/how-to-set-up-and-work-with-permissions-and-permission-sets.md)
+    * [Manager Permission Set Group](users/existing-users/what-the-manager-permission-set-does.md)
 * [🧬 Programs and Terms](programs-and-terms/README.md)
-  * [Academic Programs](how-tos/programs-and-terms/academic-programs/README.md)
+  * [Academic Programs](programs-and-terms/academic-programs/README.md)
     * [New Programs](programs-and-terms/how-to-create-and-manage-programs.md)
-    * [New Academic Accounts](how-tos/programs-and-terms/academic-programs/how-to-create-new-academic-program-accounts.md)
-    * [New Specializations](how-tos/programs-and-terms/academic-programs/how-to-create-new-specializations.md)
-  * [Academic Terms](how-tos/programs-and-terms/academic-terms/README.md)
-    * [New Terms](how-tos/programs-and-terms/academic-terms/how-to-create-new-terms.md)
+    * [New Academic Accounts](programs-and-terms/academic-programs/how-to-create-new-academic-program-accounts.md)
+    * [New Specializations](programs-and-terms/academic-programs/how-to-create-new-specializations.md)
+  * [Academic Terms](programs-and-terms/academic-terms/README.md)
+    * [New Terms](programs-and-terms/academic-terms/how-to-create-new-terms.md)
 
 ## OneDrive
 
