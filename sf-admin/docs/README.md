@@ -26,6 +26,10 @@
   * [How to Set Up and Work with Permissions and Permission Sets](users/existing-users/how-to-set-up-and-work-with-permissions-and-permission-sets.md)
   * [What the Manager Permission Set Does](users/existing-users/what-the-manager-permission-set-does.md)
 
+## Documents
+
+* [Adding New Document Types](documents/adding-new-document-types.md)
+
 ### [🧬 Programs and Terms](programs-and-terms/)
 
 * Academic Programs
@@ -55,7 +59,3 @@
 * [Connection with Facebook](misc/Connection-with-Facebook.md)
 * [Map of Opportunity Stage to Index](misc/programs-and-terms/Map-of-Opportunity-Stage-to-Index.md)
 * [Things You Can’t Do Without a Dev](misc/dev-only-things.md)
-
-## Documents
-
-* [Adding New Document Types](documents/adding-new-document-types.md)

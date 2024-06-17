@@ -31,6 +31,10 @@
   * [Academic Terms](programs-and-terms/academic-terms/README.md)
     * [New Terms](programs-and-terms/academic-terms/how-to-create-new-terms.md)
 
+## Documents
+
+* [Adding New Document Types](documents/adding-new-document-types.md)
+
 ## OneDrive
 
 * [Find a Contact's Files](onedrive/how-to-find-files-of-contacts.md)
@@ -51,7 +55,3 @@
 * [Facebook Connection](miscellaneous/connection-with-facebook.md)
 * [Opportunity Stage to Index](miscellaneous/map-of-opportunity-stage-to-index.md)
 * [Developer Needed](miscellaneous/things-you-cant-do-without-a-dev.md)
-
-## Documents
-
-* [Adding New Document Types](documents/adding-new-document-types.md)
