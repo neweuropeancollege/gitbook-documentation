@@ -55,3 +55,7 @@
 * [Connection with Facebook](misc/Connection-with-Facebook.md)
 * [Map of Opportunity Stage to Index](misc/programs-and-terms/Map-of-Opportunity-Stage-to-Index.md)
 * [Things You Can’t Do Without a Dev](misc/dev-only-things.md)
+
+## Documents
+
+* [Adding New Document Types](documents/adding-new-document-types.md)

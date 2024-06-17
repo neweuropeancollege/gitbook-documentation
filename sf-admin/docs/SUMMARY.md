@@ -51,3 +51,7 @@
 * [Facebook Connection](miscellaneous/connection-with-facebook.md)
 * [Opportunity Stage to Index](miscellaneous/map-of-opportunity-stage-to-index.md)
 * [Developer Needed](miscellaneous/things-you-cant-do-without-a-dev.md)
+
+## Documents
+
+* [Adding New Document Types](documents/adding-new-document-types.md)
