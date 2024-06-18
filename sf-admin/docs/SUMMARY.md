@@ -34,6 +34,10 @@
   * [📂 Document Types](documents/document-types/README.md)
     * [Adding new Types](documents/document-types/adding-new-document-types.md)
 
+## Document Generation
+
+* [Document Generation Service API](generation/pdf-otter.md)
+
 ## OneDrive
 
 * [Find a Contact's Files](onedrive/how-to-find-files-of-contacts.md)
