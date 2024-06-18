@@ -28,7 +28,8 @@
 
 ### [📄 Documents](documents/)
 
-* [Adding New Document Types](documents/adding-new-document-types.md)
+* New Documents
+  * [Adding New Document Types](documents/adding-new-document-types.md)
 
 ### [🧬 Programs and Terms](programs-and-terms/)
 
