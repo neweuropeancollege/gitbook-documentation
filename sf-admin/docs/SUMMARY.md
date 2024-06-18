@@ -34,9 +34,6 @@
   * [📂 Document Types](documents/document-types/README.md)
     * [Adding new Types](documents/document-types/adding-new-document-types.md)
 
-
-* [Adding New Document Types](documents/adding-new-document-types.md)
-
 ## OneDrive
 
 * [Find a Contact's Files](onedrive/how-to-find-files-of-contacts.md)
