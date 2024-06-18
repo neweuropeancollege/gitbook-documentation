@@ -23,6 +23,8 @@
     * [Removing a Manager](users/existing-users/handling-the-departure-of-a-recruitment-manager.md)
     * [Permission Set Groups](users/existing-users/how-to-set-up-and-work-with-permissions-and-permission-sets.md)
     * [Manager Permission Set Group](users/existing-users/what-the-manager-permission-set-does.md)
+* [📄 Documents](users/README.md)
+  * [Adding New Document Types](documents/adding-new-document-types.md)
 * [🧬 Programs and Terms](programs-and-terms/README.md)
   * [Academic Programs](programs-and-terms/academic-programs/README.md)
     * [New Programs](programs-and-terms/academic-programs/how-to-create-and-manage-programs.md)
@@ -30,10 +32,6 @@
     * [New Specializations](programs-and-terms/academic-programs/how-to-create-new-specializations.md)
   * [Academic Terms](programs-and-terms/academic-terms/README.md)
     * [New Terms](programs-and-terms/academic-terms/how-to-create-new-terms.md)
-
-## Documents
-
-* [Adding New Document Types](documents/adding-new-document-types.md)
 
 ## OneDrive
 
