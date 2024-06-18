@@ -30,8 +30,10 @@
     * [New Specializations](programs-and-terms/academic-programs/how-to-create-new-specializations.md)
   * [Academic Terms](programs-and-terms/academic-terms/README.md)
     * [New Terms](programs-and-terms/academic-terms/how-to-create-new-terms.md)
+* [📄 Documents](documents/README.md)
+  * [📂 Document Types](documents/document-types/README.md)
+    * [Adding new Types](documents/document-types/adding-new-document-types.md)
 
-## Documents
 
 * [Adding New Document Types](documents/adding-new-document-types.md)
 
