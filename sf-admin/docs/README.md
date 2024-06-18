@@ -26,7 +26,7 @@
   * [How to Set Up and Work with Permissions and Permission Sets](users/existing-users/how-to-set-up-and-work-with-permissions-and-permission-sets.md)
   * [What the Manager Permission Set Does](users/existing-users/what-the-manager-permission-set-does.md)
 
-## Documents
+### [📄 Documents](documents/)
 
 * [Adding New Document Types](documents/adding-new-document-types.md)
 
