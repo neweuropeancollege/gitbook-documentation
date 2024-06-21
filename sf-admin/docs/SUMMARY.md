@@ -34,7 +34,8 @@
   * [📂 Document Types](documents/document-types/README.md)
     * [Adding new Types](documents/document-types/adding-new-document-types.md)
     * [Approving new Types](documents/document-types/approving-new-document-types.md)
-  * [📑 Document Generation Service API](documents/document-types/pdf-otter.md)
+  * [📑 Document Generation](documents/document-generation/README.md)
+    * [Generation Service API](documents/document-generation/pdf-otter.md)
 
 ## OneDrive
 

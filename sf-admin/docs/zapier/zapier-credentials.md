@@ -1,4 +1,4 @@
-## Zapier Credentials (peek //comments)
+## Zapier Credentials
 
 <!--
 username: salesforcenec@new-european-college>
