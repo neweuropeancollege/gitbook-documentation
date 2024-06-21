@@ -1,5 +1,7 @@
 # Table of Contents
-
+<!--
+This mirrors the table of content section of the documents
+-->
 ## Maintenance
 
 ### [👩‍🏭 Admin Dashboard](maintenance/admin-dashboard/)
@@ -60,3 +62,4 @@
 * [Connection with Facebook](misc/Connection-with-Facebook.md)
 * [Map of Opportunity Stage to Index](misc/programs-and-terms/Map-of-Opportunity-Stage-to-Index.md)
 * [Things You Can’t Do Without a Dev](misc/dev-only-things.md)
+
